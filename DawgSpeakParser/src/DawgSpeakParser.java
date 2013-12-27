@@ -18,7 +18,7 @@ import org.jsoup.select.Elements;
  * into a file or database
  * Dependencies: jsoup-1.7.2.jar
  */
-public class Scraper {
+public class DawgSpeakParser {
 	/**
 	 * Use this USERAGENT to avoid getting band if you use scrape directly from a URL
 	 */
@@ -31,6 +31,7 @@ public class Scraper {
 	 * Set the value of WORDSELECTOR to the selector expression that will get the data you're interested in. Remember to experiment with the console in Chrome.
 	 */
 	public static final String WORDSELECTOR = "div.row>div";
+	public static final String SELECTOR = "div.row";
 	/**
 	 * Use this PreparedStatement for when you want to insert items into
 	 * the database
@@ -48,7 +49,7 @@ public class Scraper {
 	/**
 	 * Constructor to open up a connection to the database
 	 */
-	public Scraper(){
+	public DawgSpeakParser(){
 		try {
 			//load the driver
 			Class.forName("com.mysql.jdbc.Driver");
@@ -68,7 +69,7 @@ public class Scraper {
 	public static void main(String[] args) {
 		try{
 			//Create a Scraper object once you have created your database and tables proper
-			Scraper obj = new Scraper();
+			DawgSpeakParser obj = new DawgSpeakParser();
 			/*File input = new File("data.html");
 			//Check for the presence of the data file
 			if (input.exists() && input.canRead()){
@@ -79,7 +80,7 @@ public class Scraper {
 			} else{
 				System.out.println("Please make sure " + input.getName() + " exists and has the appropriate read permissions.");
 			}*/
-			Document doc = Jsoup.connect(URL).get();
+			Document doc = Jsoup.connect(URL).userAgent(USERAGENT).get();
 			Elements results = doc.select(WORDSELECTOR);
 			writeResults(results,"results.txt");
 		} catch (Exception e){
@@ -101,6 +102,9 @@ public class Scraper {
 		String word = "", type = "", definition = "", line = "";
 		int count = 1;
 		BufferedWriter writer = new BufferedWriter(new FileWriter(file));
+		BufferedWriter writeCSV = new BufferedWriter(new FileWriter("words.csv"));
+		writeCSV.append("word,type,definition");
+		writeCSV.append('\n');
 
 		for (Element e:links){
 			//Write the string to the destination specified by file
@@ -133,6 +137,13 @@ public class Scraper {
 					if (lparen >= 0 && rparen > 0){
 						type = line.substring(lparen+1,rparen);
 						definition = line.substring(rparen+1).replaceAll("“", "\"").replaceAll("”","\"").replaceAll("‘","'").replaceAll("’","'").replaceAll("—", "-");
+
+						writeCSV.append(word);
+						writeCSV.append(',');
+						writeCSV.append(type);
+						writeCSV.append(',');
+						writeCSV.append('\n');
+						writeCSV.append(definition);
 						insertStmt.setString(1, word);
 						insertStmt.setString(2, type);
 						insertStmt.setString(3,  definition);
@@ -147,6 +158,7 @@ public class Scraper {
 			}
 		}
 		writer.close();
+		writeCSV.close();
 	}
 }
 
