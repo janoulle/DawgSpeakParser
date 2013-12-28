@@ -157,9 +157,6 @@ public class DawgSpeakParser {
 	public static void writeCSV(Elements links, String file) throws IOException, Exception {
 		String word = "", type = "", definition = "", line = "";
 		int count = 1;
-		JSONObject j = new JSONObject();
-		JSONArray t = new JSONArray();
-		BufferedWriter writeJSON = new BufferedWriter(new FileWriter("words.json"));
 		BufferedWriter writeCSV = new BufferedWriter(new FileWriter("words.csv"));
 		writeCSV.append("word,type,definition");
 		writeCSV.append('\n');
@@ -167,16 +164,6 @@ public class DawgSpeakParser {
 		for (Element e:links){
 			//Write the string to the destination specified by file
 			line = e.text();
-			/*Code to parse the line and break up into the following parts:
-			word, type and definition. E.g. this line:
-			"12 (noun) If someone says 12, they are referring to the police. This is usually shouted as a warning when the police arrive somewhere unexpectedly. I was at the party and someone shouted "12" and everyone scattered."
-			becomes:
-			* word: 12
-			* type: noun
-			* definition: If someone says 12, they are referring to the police. This is usually shouted as a warning when the police arrive somewhere unexpectedly. I was at the party and someone shouted "12" and everyone scattered.
-			* Uncomment the switch statement when you've created your database and tables
-			* as the readme instructs.
-			*/
 			switch(count){
 				//1 --> word, 2 --> definition
 				case(1):
@@ -205,12 +192,6 @@ public class DawgSpeakParser {
 						writeCSV.append(',');
 						writeCSV.append(definition);
 						writeCSV.append('\n');
-						
-						j.put("word", word);
-						j.put("type", type);
-						j.put("definition", definition.trim());
-						t.put(j);
-						j = new JSONObject();
 						count = 1;
 						continue;
 					}
@@ -220,7 +201,6 @@ public class DawgSpeakParser {
 					continue;
 			}
 		}
-		writeJSON.write(t.toString());
 		writeCSV.close();
 	}
 	
