@@ -1,12 +1,13 @@
 import java.io.BufferedWriter;
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.net.URLEncoder;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
-import java.util.Iterator;
+
+import org.apache.commons.lang3.StringEscapeUtils;
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -70,16 +71,6 @@ public class DawgSpeakParser {
 		try{
 			//Create a Scraper object once you have created your database and tables proper
 			DawgSpeakParser obj = new DawgSpeakParser();
-			/*File input = new File("data.html");
-			//Check for the presence of the data file
-			if (input.exists() && input.canRead()){
-				Document doc = Jsoup.parse(input,"UTF-8");
-				//Apply selector
-				Elements results = doc.select(WORDSELECTOR);
-				writeResults(results,"results.txt");
-			} else{
-				System.out.println("Please make sure " + input.getName() + " exists and has the appropriate read permissions.");
-			}*/
 			Document doc = Jsoup.connect(URL).userAgent(USERAGENT).get();
 			Elements results = doc.select(WORDSELECTOR);
 			writeResults(results,"results.txt");
@@ -98,13 +89,155 @@ public class DawgSpeakParser {
 	 * @throws IOException
 	 * @throws Exception
 	 */
+	public static void writeJSON(Elements links, String file) throws IOException, Exception {
+		String word = "", type = "", definition = "", line = "";
+		int count = 1;
+		BufferedWriter writeJSON = new BufferedWriter(new FileWriter("words.json"));
+		JSONObject j = new JSONObject();
+		JSONArray t = new JSONArray();
+		for (Element e:links){
+			//Write the string to the destination specified by file
+			line = e.text();
+			/*Code to parse the line and break up into the following parts:
+			word, type and definition. E.g. this line:
+			"12 (noun) If someone says 12, they are referring to the police. This is usually shouted as a warning when the police arrive somewhere unexpectedly. I was at the party and someone shouted "12" and everyone scattered."
+			becomes:
+			* word: 12
+			* type: noun
+			* definition: If someone says 12, they are referring to the police. This is usually shouted as a warning when the police arrive somewhere unexpectedly. I was at the party and someone shouted "12" and everyone scattered.
+			* Uncomment the switch statement when you've created your database and tables
+			* as the readme instructs.
+			*/
+			switch(count){
+				//1 --> word, 2 --> definition
+				case(1):
+					word = StringEscapeUtils.escapeHtml4(line);
+					if (word.indexOf(",") >= 0){
+						word = line.replaceAll(",","");
+					}
+					count++;
+					break;
+				case(2):
+					int lparen = line.indexOf("(");
+					int rparen = line.indexOf(")");
+
+					//All the definitions should have the word type in brackets but
+					//obviously,there might be instances where this is not the case so
+					//definitions would be missing. No bueno.
+					if (lparen >= 0 && rparen > 0){
+						type = line.substring(lparen+1,rparen);
+						definition = line.substring(rparen+1).replaceAll("“", "\"").replaceAll("”","\"").replaceAll("‘","'").replaceAll("’","'").replaceAll("—", "-").trim();
+						j.put("word", word);
+						j.put("type", type);
+						j.put("definition", definition);
+						t.put(j);
+						j = new JSONObject();
+						count = 1;
+						continue;
+					}
+					count++;
+					break;
+				default:
+					continue;
+			}
+		}
+		writeJSON.write(t.toString());
+		writeJSON.close();
+	}
+	/**
+	 * Parse data from the Elements object to
+	 * 1. write to the database (word, type and definition)
+	 * 2. write the data to a text file
+	 * @param links (Elements object)
+	 * @param file (File object)
+	 * @param obj (Scraper object)
+	 * @throws IOException
+	 * @throws Exception
+	 */
+	public static void writeCSV(Elements links, String file) throws IOException, Exception {
+		String word = "", type = "", definition = "", line = "";
+		int count = 1;
+		JSONObject j = new JSONObject();
+		JSONArray t = new JSONArray();
+		BufferedWriter writeJSON = new BufferedWriter(new FileWriter("words.json"));
+		BufferedWriter writeCSV = new BufferedWriter(new FileWriter("words.csv"));
+		writeCSV.append("word,type,definition");
+		writeCSV.append('\n');
+
+		for (Element e:links){
+			//Write the string to the destination specified by file
+			line = e.text();
+			/*Code to parse the line and break up into the following parts:
+			word, type and definition. E.g. this line:
+			"12 (noun) If someone says 12, they are referring to the police. This is usually shouted as a warning when the police arrive somewhere unexpectedly. I was at the party and someone shouted "12" and everyone scattered."
+			becomes:
+			* word: 12
+			* type: noun
+			* definition: If someone says 12, they are referring to the police. This is usually shouted as a warning when the police arrive somewhere unexpectedly. I was at the party and someone shouted "12" and everyone scattered.
+			* Uncomment the switch statement when you've created your database and tables
+			* as the readme instructs.
+			*/
+			switch(count){
+				//1 --> word, 2 --> definition
+				case(1):
+					word = line;
+					if (word.indexOf(",") >= 0){
+						word = line.replaceAll(",","");
+					}
+					count++;
+					break;
+				case(2):
+					int lparen = line.indexOf("(");
+					int rparen = line.indexOf(")");
+
+					//All the definitions should have the word type in brackets but
+					//obviously,there might be instances where this is not the case so
+					//definitions would be missing. No bueno.
+					if (lparen >= 0 && rparen > 0){
+						type = line.substring(lparen+1,rparen);
+						
+						//definition = StringEscapeUtils.escapeHtml4(line.substring(rparen+1));
+						definition = line.substring(rparen+1).trim();
+						
+						writeCSV.append(word);
+						writeCSV.append(',');
+						writeCSV.append(type);
+						writeCSV.append(',');
+						writeCSV.append(definition);
+						writeCSV.append('\n');
+						
+						j.put("word", word);
+						j.put("type", type);
+						j.put("definition", definition.trim());
+						t.put(j);
+						j = new JSONObject();
+						count = 1;
+						continue;
+					}
+					count++;
+					break;
+				default:
+					continue;
+			}
+		}
+		writeJSON.write(t.toString());
+		writeCSV.close();
+	}
+	
+	/**
+	 * Parse data from the Elements object to
+	 * 1. write to the database (word, type and definition)
+	 * 2. write the data to a text file
+	 * @param links (Elements object)
+	 * @param file (File object)
+	 * @param obj (Scraper object)
+	 * @throws IOException
+	 * @throws Exception
+	 */
 	public static void writeResults(Elements links, String file) throws IOException, Exception {
 		String word = "", type = "", definition = "", line = "";
 		int count = 1;
 		BufferedWriter writer = new BufferedWriter(new FileWriter(file));
-		BufferedWriter writeCSV = new BufferedWriter(new FileWriter("words.csv"));
-		writeCSV.append("word,type,definition");
-		writeCSV.append('\n');
 
 		for (Element e:links){
 			//Write the string to the destination specified by file
@@ -136,14 +269,7 @@ public class DawgSpeakParser {
 					//definitions would be missing. No bueno.
 					if (lparen >= 0 && rparen > 0){
 						type = line.substring(lparen+1,rparen);
-						definition = line.substring(rparen+1).replaceAll("“", "\"").replaceAll("”","\"").replaceAll("‘","'").replaceAll("’","'").replaceAll("—", "-");
-
-						writeCSV.append(word);
-						writeCSV.append(',');
-						writeCSV.append(type);
-						writeCSV.append(',');
-						writeCSV.append('\n');
-						writeCSV.append(definition);
+						definition = line.substring(rparen+1).replaceAll("“", "\"").replaceAll("”","\"").replaceAll("‘","'").replaceAll("’","'").replaceAll("—", "-").trim();
 						insertStmt.setString(1, word);
 						insertStmt.setString(2, type);
 						insertStmt.setString(3,  definition);
@@ -158,7 +284,6 @@ public class DawgSpeakParser {
 			}
 		}
 		writer.close();
-		writeCSV.close();
 	}
 }
 
