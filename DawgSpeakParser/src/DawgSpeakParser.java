@@ -73,7 +73,8 @@ public class DawgSpeakParser {
 			DawgSpeakParser obj = new DawgSpeakParser();
 			Document doc = Jsoup.connect(URL).userAgent(USERAGENT).get();
 			Elements results = doc.select(WORDSELECTOR);
-			writeResults(results,"results.txt");
+			//writeResults(results,"results.txt");
+			writeJSON(results,"results.json");
 		} catch (Exception e){
 			System.out.println(e.getMessage());
 		}
@@ -92,7 +93,7 @@ public class DawgSpeakParser {
 	public static void writeJSON(Elements links, String file) throws IOException, Exception {
 		String word = "", type = "", definition = "", line = "";
 		int count = 1;
-		BufferedWriter writeJSON = new BufferedWriter(new FileWriter("words.json"));
+		BufferedWriter writeJSON = new BufferedWriter(new FileWriter(file));
 		JSONObject j = new JSONObject();
 		JSONArray t = new JSONArray();
 		for (Element e:links){
@@ -111,10 +112,7 @@ public class DawgSpeakParser {
 			switch(count){
 				//1 --> word, 2 --> definition
 				case(1):
-					word = StringEscapeUtils.escapeHtml4(line);
-					if (word.indexOf(",") >= 0){
-						word = line.replaceAll(",","");
-					}
+					word = line;
 					count++;
 					break;
 				case(2):

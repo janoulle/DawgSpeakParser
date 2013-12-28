@@ -1,0 +1,7766 @@
+[
+   {
+      "word":"12",
+      "type":"noun"
+   },
+   {
+      "word":"12",
+      "type":"noun"
+   },
+   {
+      "word":"24-7",
+      "type":"adverb"
+   },
+   {
+      "word":"40",
+      "type":"noun"
+   },
+   {
+      "word":"420",
+      "type":"noun"
+   },
+   {
+      "word":"5-0",
+      "type":"noun"
+   },
+   {
+      "word":"70's bush",
+      "type":"noun"
+   },
+   {
+      "word":"86",
+      "type":"verb"
+   },
+   {
+      "word":"accidentally",
+      "type":"verb"
+   },
+   {
+      "word":"acid",
+      "type":"noun"
+   },
+   {
+      "word":"action",
+      "type":"noun"
+   },
+   {
+      "word":"adorkable",
+      "type":"adjective"
+   },
+   {
+      "word":"afterglow",
+      "type":"noun"
+   },
+   {
+      "word":"A-game",
+      "type":"idiom"
+   },
+   {
+      "word":"-age",
+      "type":"suffix"
+   },
+   {
+      "word":"Ag Tech",
+      "type":"noun"
+   },
+   {
+      "word":"aight",
+      "type":"interjection"
+   },
+   {
+      "word":"ain't",
+      "type":"verb"
+   },
+   {
+      "word":"ain't that a bitch",
+      "type":"idiom"
+   },
+   {
+      "word":"air-five",
+      "type":"noun phrase"
+   },
+   {
+      "word":"A-list",
+      "type":"adjective"
+   },
+   {
+      "word":"all",
+      "type":"adverb"
+   },
+   {
+      "word":"all about",
+      "type":"idiom"
+   },
+   {
+      "word":"all kinds of",
+      "type":"adverb"
+   },
+   {
+      "word":"all over it",
+      "type":"idiom"
+   },
+   {
+      "word":"all that",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"all up in",
+      "type":"idiom"
+   },
+   {
+      "word":"all up in (someone's) face",
+      "type":"idiom"
+   },
+   {
+      "word":"all up on",
+      "type":"idiom"
+   },
+   {
+      "word":"all you",
+      "type":"adjective"
+   },
+   {
+      "word":"ambisextrous",
+      "type":"adjective"
+   },
+   {
+      "word":"amped",
+      "type":"adjective"
+   },
+   {
+      "word":"animal",
+      "type":"noun"
+   },
+   {
+      "word":"ankle biter",
+      "type":"noun phrase"
+   },
+   {
+      "word":"antistalking",
+      "type":"verb"
+   },
+   {
+      "word":"ape shit",
+      "type":"noun phrase"
+   },
+   {
+      "word":"artsy fartsy",
+      "type":"adjective"
+   },
+   {
+      "word":"a shit",
+      "type":"noun"
+   },
+   {
+      "word":"ass",
+      "type":"noun"
+   },
+   {
+      "word":"(ASS) AΣΣ",
+      "type":"noun"
+   },
+   {
+      "word":"ass crack of dawn",
+      "type":"noun phrase"
+   },
+   {
+      "word":"asshat",
+      "type":"noun"
+   },
+   {
+      "word":"Asshole",
+      "type":"noun"
+   },
+   {
+      "word":"ass kisser",
+      "type":"noun phrase"
+   },
+   {
+      "word":"ass pirate",
+      "type":"noun phrase"
+   },
+   {
+      "word":"asswipe",
+      "type":"noun"
+   },
+   {
+      "word":"Athenian",
+      "type":"noun"
+   },
+   {
+      "word":"ATH, the",
+      "type":"noun"
+   },
+   {
+      "word":"ATLien",
+      "type":"noun"
+   },
+   {
+      "word":"ATL, The",
+      "type":"noun"
+   },
+   {
+      "word":"A-town",
+      "type":"noun"
+   },
+   {
+      "word":"attention whore",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Aunt Flo came to visit",
+      "type":"idiom"
+   },
+   {
+      "word":"awesome",
+      "type":"adjective"
+   },
+   {
+      "word":"Awful House",
+      "type":"noun phrase"
+   },
+   {
+      "word":"awkward turtle",
+      "type":"noun phrase"
+   },
+   {
+      "word":"awnaw hell naw",
+      "type":"interjection"
+   },
+   {
+      "word":"aye aye captain",
+      "type":"interjection"
+   },
+   {
+      "word":"baby hootie",
+      "type":"noun"
+   },
+   {
+      "word":"babysit",
+      "type":"verb"
+   },
+   {
+      "word":"back",
+      "type":"noun"
+   },
+   {
+      "word":"back (someone) up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"back up",
+      "type":"noun"
+   },
+   {
+      "word":"backwash",
+      "type":"noun"
+   },
+   {
+      "word":"bacon wrapped",
+      "type":"adjective"
+   },
+   {
+      "word":"bad",
+      "type":"adjective"
+   },
+   {
+      "word":"badass",
+      "type":"noun"
+   },
+   {
+      "word":"badass",
+      "type":"adjective"
+   },
+   {
+      "word":"bad hair day",
+      "type":"noun phrase"
+   },
+   {
+      "word":"ba donka donk",
+      "type":"noun"
+   },
+   {
+      "word":"bag",
+      "type":"verb"
+   },
+   {
+      "word":"bag on",
+      "type":"verb"
+   },
+   {
+      "word":"bail",
+      "type":"verb"
+   },
+   {
+      "word":"baked",
+      "type":"adjective"
+   },
+   {
+      "word":"ball",
+      "type":"noun"
+   },
+   {
+      "word":"ball and chain",
+      "type":"noun phrase"
+   },
+   {
+      "word":"baller",
+      "type":"noun"
+   },
+   {
+      "word":"ballin'",
+      "type":"verb"
+   },
+   {
+      "word":"ballin'",
+      "type":"adjective"
+   },
+   {
+      "word":"balls deep",
+      "type":"adjective"
+   },
+   {
+      "word":"balls to the wall",
+      "type":"interjection"
+   },
+   {
+      "word":"ballsy",
+      "type":"adjective"
+   },
+   {
+      "word":"'Bama",
+      "type":"noun"
+   },
+   {
+      "word":"BAMF",
+      "type":"acronym"
+   },
+   {
+      "word":"banana hammock",
+      "type":"noun phrase"
+   },
+   {
+      "word":"band party",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bang",
+      "type":"verb"
+   },
+   {
+      "word":"bangin'",
+      "type":"adjective"
+   },
+   {
+      "word":"bar",
+      "type":"noun"
+   },
+   {
+      "word":"Barbs",
+      "type":"noun"
+   },
+   {
+      "word":"bar crawl",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bar hop",
+      "type":"verb phrase"
+   },
+   {
+      "word":"barsexual",
+      "type":"noun"
+   },
+   {
+      "word":"basic",
+      "type":"adjective"
+   },
+   {
+      "word":"basket case",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bastard",
+      "type":"noun"
+   },
+   {
+      "word":"battleshits",
+      "type":"noun"
+   },
+   {
+      "word":"bazinga",
+      "type":"interjection"
+   },
+   {
+      "word":"b/c",
+      "type":"abbreviation"
+   },
+   {
+      "word":"Beamer",
+      "type":"noun"
+   },
+   {
+      "word":"bear",
+      "type":"noun"
+   },
+   {
+      "word":"beard",
+      "type":"noun"
+   },
+   {
+      "word":"beast",
+      "type":"noun"
+   },
+   {
+      "word":"beasters",
+      "type":"noun"
+   },
+   {
+      "word":"Beast, The",
+      "type":"noun"
+   },
+   {
+      "word":"beat",
+      "type":"adjective"
+   },
+   {
+      "word":"beat",
+      "type":"adjective"
+   },
+   {
+      "word":"beatdown",
+      "type":"noun"
+   },
+   {
+      "word":"be easy",
+      "type":"verb phrase"
+   },
+   {
+      "word":"beef",
+      "type":"noun"
+   },
+   {
+      "word":"been a minute",
+      "type":"idiom"
+   },
+   {
+      "word":"beeramid",
+      "type":"noun"
+   },
+   {
+      "word":"beer goggles",
+      "type":"noun phrase"
+   },
+   {
+      "word":"beer me",
+      "type":"verb phrase"
+   },
+   {
+      "word":"beer pong",
+      "type":"noun"
+   },
+   {
+      "word":"beer slut",
+      "type":"noun"
+   },
+   {
+      "word":"beer-thirty",
+      "type":"noun"
+   },
+   {
+      "word":"beez in the trap",
+      "type":"idiom"
+   },
+   {
+      "word":"bejeebies",
+      "type":"noun"
+   },
+   {
+      "word":"belligerent",
+      "type":"adjective"
+   },
+   {
+      "word":"bender",
+      "type":"noun"
+   },
+   {
+      "word":"benjamin",
+      "type":"noun"
+   },
+   {
+      "word":"benjie",
+      "type":"noun"
+   },
+   {
+      "word":"betch",
+      "type":"noun"
+   },
+   {
+      "word":"BFF",
+      "type":"abbr. noun"
+   },
+   {
+      "word":"bi",
+      "type":"adjective"
+   },
+   {
+      "word":"bible beater",
+      "type":"noun"
+   },
+   {
+      "word":"bible Hugger",
+      "type":"noun"
+   },
+   {
+      "word":"bicurious",
+      "type":"adjective"
+   },
+   {
+      "word":"biddies",
+      "type":"noun"
+   },
+   {
+      "word":"Bieber Fever",
+      "type":"noun"
+   },
+   {
+      "word":"BIF",
+      "type":"abbreviation"
+   },
+   {
+      "word":"biffle",
+      "type":"noun"
+   },
+   {
+      "word":"big",
+      "type":"noun"
+   },
+   {
+      "word":"big girl panties",
+      "type":"noun phrase"
+   },
+   {
+      "word":"big house",
+      "type":"noun phrase"
+   },
+   {
+      "word":"big O",
+      "type":"noun phrase"
+   },
+   {
+      "word":"big pimpin'",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bill",
+      "type":"noun"
+   },
+   {
+      "word":"biotch",
+      "type":"noun"
+   },
+   {
+      "word":"bitch",
+      "type":"noun"
+   },
+   {
+      "word":"bitch",
+      "type":"verb"
+   },
+   {
+      "word":"bitch and a half",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"bitchin'",
+      "type":"adjective"
+   },
+   {
+      "word":"bitch out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bitch seat",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bitchslap",
+      "type":"noun"
+   },
+   {
+      "word":"bitch slap",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bite me",
+      "type":"interjection"
+   },
+   {
+      "word":"bites",
+      "type":"verb"
+   },
+   {
+      "word":"blackball",
+      "type":"verb"
+   },
+   {
+      "word":"blacked out",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"blackout",
+      "type":"noun"
+   },
+   {
+      "word":"blades",
+      "type":"noun"
+   },
+   {
+      "word":"blahh",
+      "type":"adjective"
+   },
+   {
+      "word":"blazed",
+      "type":"adjective"
+   },
+   {
+      "word":"bleezey",
+      "type":"noun"
+   },
+   {
+      "word":"bless your heart",
+      "type":"idiom"
+   },
+   {
+      "word":"bling",
+      "type":"noun"
+   },
+   {
+      "word":"bling",
+      "type":"interjection"
+   },
+   {
+      "word":"bling bling",
+      "type":"noun"
+   },
+   {
+      "word":"bling bling",
+      "type":"interjection"
+   },
+   {
+      "word":"blitzed",
+      "type":"adjective"
+   },
+   {
+      "word":"blog",
+      "type":"noun"
+   },
+   {
+      "word":"blog",
+      "type":"verb"
+   },
+   {
+      "word":"blow",
+      "type":"verb"
+   },
+   {
+      "word":"blow",
+      "type":"noun"
+   },
+   {
+      "word":"blow chunks",
+      "type":"verb phrase"
+   },
+   {
+      "word":"blowing dro",
+      "type":"verb phrase"
+   },
+   {
+      "word":"blowin' up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"blowjob",
+      "type":"noun"
+   },
+   {
+      "word":"blown up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"blow off",
+      "type":"verb phrase"
+   },
+   {
+      "word":"blow someone's mind",
+      "type":"verb phrase"
+   },
+   {
+      "word":"blow up a phone",
+      "type":"verb phrase"
+   },
+   {
+      "word":"blow up a phone",
+      "type":"verb phrase"
+   },
+   {
+      "word":"blue balls",
+      "type":"noun phrase"
+   },
+   {
+      "word":"blue motherf**ker",
+      "type":"noun phrase"
+   },
+   {
+      "word":"blue screen of death",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bluetooth",
+      "type":"noun"
+   },
+   {
+      "word":"blunt",
+      "type":"noun"
+   },
+   {
+      "word":"blunt guts",
+      "type":"noun phrase"
+   },
+   {
+      "word":"BM",
+      "type":"noun"
+   },
+   {
+      "word":"body count",
+      "type":"noun phrase"
+   },
+   {
+      "word":"body shot",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bogart",
+      "type":"verb"
+   },
+   {
+      "word":"bomb",
+      "type":"noun"
+   },
+   {
+      "word":"bomb",
+      "type":"adjective"
+   },
+   {
+      "word":"bomb",
+      "type":"verb"
+   },
+   {
+      "word":"bomb dot com",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bone",
+      "type":"verb"
+   },
+   {
+      "word":"bone",
+      "type":"noun"
+   },
+   {
+      "word":"boner",
+      "type":"noun"
+   },
+   {
+      "word":"boo",
+      "type":"noun"
+   },
+   {
+      "word":"boo boo",
+      "type":"noun"
+   },
+   {
+      "word":"boob tube",
+      "type":"noun"
+   },
+   {
+      "word":"boochie",
+      "type":"adjective"
+   },
+   {
+      "word":"book it",
+      "type":"verb"
+   },
+   {
+      "word":"boom",
+      "type":"interjection"
+   },
+   {
+      "word":"boonies",
+      "type":"noun"
+   },
+   {
+      "word":"boosting",
+      "type":"verb"
+   },
+   {
+      "word":"boot",
+      "type":"noun"
+   },
+   {
+      "word":"boo thang",
+      "type":"noun"
+   },
+   {
+      "word":"bootleg",
+      "type":"adjective"
+   },
+   {
+      "word":"booty",
+      "type":"noun"
+   },
+   {
+      "word":"booty call",
+      "type":"noun phrase"
+   },
+   {
+      "word":"booya",
+      "type":"interjection"
+   },
+   {
+      "word":"booyakasha",
+      "type":"interjection"
+   },
+   {
+      "word":"boss",
+      "type":"noun"
+   },
+   {
+      "word":"boss",
+      "type":"adjective"
+   },
+   {
+      "word":"Botan",
+      "type":"noun"
+   },
+   {
+      "word":"botched",
+      "type":"verb"
+   },
+   {
+      "word":"Bot Gards",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bo-time",
+      "type":"noun"
+   },
+   {
+      "word":"bottom",
+      "type":"noun"
+   },
+   {
+      "word":"boucou",
+      "type":"adjective"
+   },
+   {
+      "word":"boujee",
+      "type":"adjective"
+   },
+   {
+      "word":"bounce",
+      "type":"verb"
+   },
+   {
+      "word":"Bourbs",
+      "type":"noun"
+   },
+   {
+      "word":"'bout it",
+      "type":"adjective"
+   },
+   {
+      "word":"bowl",
+      "type":"noun"
+   },
+   {
+      "word":"box",
+      "type":"noun"
+   },
+   {
+      "word":"box",
+      "type":"noun"
+   },
+   {
+      "word":"boy",
+      "type":"noun"
+   },
+   {
+      "word":"boyfriend",
+      "type":"noun"
+   },
+   {
+      "word":"boy toy",
+      "type":"noun phrase"
+   },
+   {
+      "word":"brah",
+      "type":"noun"
+   },
+   {
+      "word":"brain",
+      "type":"noun"
+   },
+   {
+      "word":"brb",
+      "type":"verb phrase"
+   },
+   {
+      "word":"break it down",
+      "type":"verb phrase"
+   },
+   {
+      "word":"break (someone's) ankles",
+      "type":"verb phrase"
+   },
+   {
+      "word":"break someone's balls",
+      "type":"verb phrase"
+   },
+   {
+      "word":"break the seal",
+      "type":"verb phrase"
+   },
+   {
+      "word":"breeder",
+      "type":"noun"
+   },
+   {
+      "word":"brew",
+      "type":"noun"
+   },
+   {
+      "word":"brewskie",
+      "type":"noun"
+   },
+   {
+      "word":"brick",
+      "type":"noun"
+   },
+   {
+      "word":"bring it",
+      "type":"interjection"
+   },
+   {
+      "word":"bring it on",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bring your a-game",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bro",
+      "type":"noun"
+   },
+   {
+      "word":"brodak moment",
+      "type":"noun phrase"
+   },
+   {
+      "word":"brodate",
+      "type":"noun"
+   },
+   {
+      "word":"brodeo",
+      "type":"noun"
+   },
+   {
+      "word":"brodeo",
+      "type":"noun"
+   },
+   {
+      "word":"Broho",
+      "type":"noun"
+   },
+   {
+      "word":"bromance",
+      "type":"noun"
+   },
+   {
+      "word":"bronado",
+      "type":"noun"
+   },
+   {
+      "word":"broposterous",
+      "type":"adjective"
+   },
+   {
+      "word":"bros before hoes",
+      "type":"idiom"
+   },
+   {
+      "word":"broseph",
+      "type":"noun"
+   },
+   {
+      "word":"broski",
+      "type":"noun"
+   },
+   {
+      "word":"brouhaha",
+      "type":"noun"
+   },
+   {
+      "word":"brovaltine",
+      "type":"noun phrase"
+   },
+   {
+      "word":"brovaltine",
+      "type":"noun"
+   },
+   {
+      "word":"brown bagger",
+      "type":"noun"
+   },
+   {
+      "word":"brown out",
+      "type":"verb"
+   },
+   {
+      "word":"brown sugar",
+      "type":"noun phrase"
+   },
+   {
+      "word":"brown sugar",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bruh",
+      "type":"noun"
+   },
+   {
+      "word":"Brumblebee Hall",
+      "type":"noun"
+   },
+   {
+      "word":"Brumby beach",
+      "type":"noun"
+   },
+   {
+      "word":"Brumby Butt",
+      "type":"noun"
+   },
+   {
+      "word":"B's",
+      "type":"noun"
+   },
+   {
+      "word":"BS",
+      "type":"verb"
+   },
+   {
+      "word":"B.S.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"B.T. Dubbs",
+      "type":"perpositional phrase"
+   },
+   {
+      "word":"B.T. Dubs",
+      "type":"idiom"
+   },
+   {
+      "word":"BTW",
+      "type":"acronym"
+   },
+   {
+      "word":"bub",
+      "type":"noun"
+   },
+   {
+      "word":"bubbies",
+      "type":"noun"
+   },
+   {
+      "word":"bubble gut",
+      "type":"noun phrase"
+   },
+   {
+      "word":"buck",
+      "type":"noun"
+   },
+   {
+      "word":"buck",
+      "type":"noun"
+   },
+   {
+      "word":"buck",
+      "type":"adjective"
+   },
+   {
+      "word":"buck wild",
+      "type":"adjective"
+   },
+   {
+      "word":"bud",
+      "type":"noun"
+   },
+   {
+      "word":"buddha",
+      "type":"noun"
+   },
+   {
+      "word":"buddy",
+      "type":"noun"
+   },
+   {
+      "word":"buddy system",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Bud Heavy",
+      "type":"Noun phrase"
+   },
+   {
+      "word":"buggin'",
+      "type":"verb"
+   },
+   {
+      "word":"buggy",
+      "type":"noun"
+   },
+   {
+      "word":"bulldyke",
+      "type":"noun"
+   },
+   {
+      "word":"bullshit",
+      "type":"interjection"
+   },
+   {
+      "word":"bullshit",
+      "type":"verb"
+   },
+   {
+      "word":"bum",
+      "type":"verb"
+   },
+   {
+      "word":"bumblef**k",
+      "type":"noun"
+   },
+   {
+      "word":"bummed",
+      "type":"adjective"
+   },
+   {
+      "word":"bummer",
+      "type":"noun"
+   },
+   {
+      "word":"bum out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bump",
+      "type":"verb"
+   },
+   {
+      "word":"bump and grind",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bumpin' uglies",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bun in the oven",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bunk",
+      "type":"adjective"
+   },
+   {
+      "word":"bunkin'",
+      "type":"verb"
+   },
+   {
+      "word":"burn",
+      "type":"interjection"
+   },
+   {
+      "word":"burn",
+      "type":"verb"
+   },
+   {
+      "word":"burn cruise",
+      "type":"noun phrase"
+   },
+   {
+      "word":"burned",
+      "type":"adjective"
+   },
+   {
+      "word":"burn out",
+      "type":"adjective"
+   },
+   {
+      "word":"business, the",
+      "type":"noun phrase"
+   },
+   {
+      "word":"busk",
+      "type":"verb"
+   },
+   {
+      "word":"busker",
+      "type":"noun"
+   },
+   {
+      "word":"bus ninja",
+      "type":"noun phrase"
+   },
+   {
+      "word":"bus surf",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bust",
+      "type":"verb"
+   },
+   {
+      "word":"bust a move",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bust a nut",
+      "type":"verb phrase"
+   },
+   {
+      "word":"busted",
+      "type":"adjective"
+   },
+   {
+      "word":"busted",
+      "type":"interjection"
+   },
+   {
+      "word":"busted titties",
+      "type":"noun"
+   },
+   {
+      "word":"busted up",
+      "type":"adjective"
+   },
+   {
+      "word":"bust out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"bust (someone's) balls",
+      "type":"verb phrase"
+   },
+   {
+      "word":"butch",
+      "type":"adjective"
+   },
+   {
+      "word":"butchy",
+      "type":"adjective"
+   },
+   {
+      "word":"butt buddy",
+      "type":"noun phrase"
+   },
+   {
+      "word":"butt-dial",
+      "type":"verb"
+   },
+   {
+      "word":"butterface",
+      "type":"noun"
+   },
+   {
+      "word":"buzz",
+      "type":"noun"
+   },
+   {
+      "word":"buzzkill",
+      "type":"noun"
+   },
+   {
+      "word":"caca",
+      "type":"adjective"
+   },
+   {
+      "word":"cake",
+      "type":"adjective"
+   },
+   {
+      "word":"cake'n",
+      "type":"verb"
+   },
+   {
+      "word":"call (someone) out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"camel toe",
+      "type":"noun"
+   },
+   {
+      "word":"camo",
+      "type":"adjective"
+   },
+   {
+      "word":"camp",
+      "type":"verb"
+   },
+   {
+      "word":"camwhore",
+      "type":"noun"
+   },
+   {
+      "word":"Canadian",
+      "type":"noun"
+   },
+   {
+      "word":"Canadian tuxedo",
+      "type":"noun"
+   },
+   {
+      "word":"cancer break",
+      "type":"noun"
+   },
+   {
+      "word":"cancer stick",
+      "type":"noun"
+   },
+   {
+      "word":"candy Flip",
+      "type":"verb"
+   },
+   {
+      "word":"cannon",
+      "type":"noun"
+   },
+   {
+      "word":"canoflage",
+      "type":"noun"
+   },
+   {
+      "word":"caps lock voice",
+      "type":"noun phrase"
+   },
+   {
+      "word":"carcolepsy",
+      "type":"noun"
+   },
+   {
+      "word":"carcolepsy",
+      "type":"noun"
+   },
+   {
+      "word":"carpet muncher",
+      "type":"noun"
+   },
+   {
+      "word":"carry",
+      "type":"verb"
+   },
+   {
+      "word":"cash",
+      "type":"verb"
+   },
+   {
+      "word":"cash and prizes",
+      "type":"noun phrase"
+   },
+   {
+      "word":"cashed",
+      "type":"adjective"
+   },
+   {
+      "word":"cat",
+      "type":"noun"
+   },
+   {
+      "word":"catch hell",
+      "type":"verb phrase"
+   },
+   {
+      "word":"catch some z's",
+      "type":"verb phrase"
+   },
+   {
+      "word":"catch you later",
+      "type":"verb phrase"
+   },
+   {
+      "word":"caught up",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"C.C.R.C.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"central",
+      "type":"noun"
+   },
+   {
+      "word":"cereal",
+      "type":"adjective"
+   },
+   {
+      "word":"cha-cha",
+      "type":"noun"
+   },
+   {
+      "word":"chalk (it) up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"chanel",
+      "type":"noun"
+   },
+   {
+      "word":"chap my ass",
+      "type":"verb phrase"
+   },
+   {
+      "word":"charity line",
+      "type":"noun phrase"
+   },
+   {
+      "word":"chaser",
+      "type":"noun"
+   },
+   {
+      "word":"chauncey",
+      "type":"noun"
+   },
+   {
+      "word":"Cheapstone",
+      "type":"noun"
+   },
+   {
+      "word":"check this out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"check yourself",
+      "type":"verb phrase"
+   },
+   {
+      "word":"cheese",
+      "type":"noun"
+   },
+   {
+      "word":"cheesin'",
+      "type":"verb"
+   },
+   {
+      "word":"cherried",
+      "type":"adjective"
+   },
+   {
+      "word":"cherry",
+      "type":"noun"
+   },
+   {
+      "word":"chest piece",
+      "type":"noun phrase"
+   },
+   {
+      "word":"chica",
+      "type":"noun"
+   },
+   {
+      "word":"chick",
+      "type":"noun"
+   },
+   {
+      "word":"chicken",
+      "type":"noun"
+   },
+   {
+      "word":"chick flick",
+      "type":"noun phrase"
+   },
+   {
+      "word":"chicks before dicks",
+      "type":"idiom"
+   },
+   {
+      "word":"chief",
+      "type":"verb"
+   },
+   {
+      "word":"child",
+      "type":"verb"
+   },
+   {
+      "word":"chill",
+      "type":"verb"
+   },
+   {
+      "word":"chill",
+      "type":"verb"
+   },
+   {
+      "word":"chillax",
+      "type":"verb"
+   },
+   {
+      "word":"chill pill",
+      "type":"noun phrase"
+   },
+   {
+      "word":"chin music",
+      "type":"noun phrase"
+   },
+   {
+      "word":"chinstrap",
+      "type":"Noun phrase"
+   },
+   {
+      "word":"chocoholic",
+      "type":"noun"
+   },
+   {
+      "word":"chocolate chaser",
+      "type":"noun"
+   },
+   {
+      "word":"chocolate starfish",
+      "type":"noun phrase"
+   },
+   {
+      "word":"choice",
+      "type":"adjective"
+   },
+   {
+      "word":"choke the chicken",
+      "type":"verb phrase"
+   },
+   {
+      "word":"chops",
+      "type":"noun"
+   },
+   {
+      "word":"chow down",
+      "type":"verb phrase"
+   },
+   {
+      "word":"christina",
+      "type":"noun"
+   },
+   {
+      "word":"chubby",
+      "type":"noun"
+   },
+   {
+      "word":"chubby chaser",
+      "type":"noun phrase"
+   },
+   {
+      "word":"chug",
+      "type":"verb"
+   },
+   {
+      "word":"cig",
+      "type":"noun"
+   },
+   {
+      "word":"circle of death",
+      "type":"noun phrase"
+   },
+   {
+      "word":"classic",
+      "type":"adjective"
+   },
+   {
+      "word":"classy",
+      "type":"adjective"
+   },
+   {
+      "word":"clean up well",
+      "type":"verb phrase"
+   },
+   {
+      "word":"cleat-chaser",
+      "type":"noun"
+   },
+   {
+      "word":"clicker",
+      "type":"noun"
+   },
+   {
+      "word":"clock",
+      "type":"verb"
+   },
+   {
+      "word":"closed-eye brah pic",
+      "type":"noun"
+   },
+   {
+      "word":"close the deal",
+      "type":"verb phrase"
+   },
+   {
+      "word":"clown",
+      "type":"noun"
+   },
+   {
+      "word":"clusterf**k",
+      "type":"noun"
+   },
+   {
+      "word":"clusterf**ked",
+      "type":"adjective"
+   },
+   {
+      "word":"clutch",
+      "type":"adjective"
+   },
+   {
+      "word":"clutch oven",
+      "type":"noun phrase"
+   },
+   {
+      "word":"c-note",
+      "type":"noun"
+   },
+   {
+      "word":"cock",
+      "type":"noun"
+   },
+   {
+      "word":"cock block",
+      "type":"verb phrase"
+   },
+   {
+      "word":"cock brush",
+      "type":"verb phrase"
+   },
+   {
+      "word":"cock fest",
+      "type":"noun phrase"
+   },
+   {
+      "word":"cocktail mouth",
+      "type":"noun"
+   },
+   {
+      "word":"cogsci",
+      "type":"noun"
+   },
+   {
+      "word":"cold",
+      "type":"adjective"
+   },
+   {
+      "word":"come at me, bro",
+      "type":"idiom"
+   },
+   {
+      "word":"come down",
+      "type":"verb"
+   },
+   {
+      "word":"come heavy",
+      "type":"verb phrase"
+   },
+   {
+      "word":"commando, go",
+      "type":"verb phrase"
+   },
+   {
+      "word":"compsci",
+      "type":"noun"
+   },
+   {
+      "word":"con",
+      "type":"noun"
+   },
+   {
+      "word":"confessional",
+      "type":"noun"
+   },
+   {
+      "word":"connection",
+      "type":"noun"
+   },
+   {
+      "word":"controller thrower",
+      "type":"noun phrase"
+   },
+   {
+      "word":"coochie",
+      "type":"noun"
+   },
+   {
+      "word":"coochie cutters",
+      "type":"noun phrase"
+   },
+   {
+      "word":"cool",
+      "type":"adjective"
+   },
+   {
+      "word":"cool beans",
+      "type":"interjection"
+   },
+   {
+      "word":"cool cat",
+      "type":"noun phrase"
+   },
+   {
+      "word":"cool it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"cool story bro",
+      "type":"idiom"
+   },
+   {
+      "word":"coon's age",
+      "type":"noun"
+   },
+   {
+      "word":"cooter",
+      "type":"noun"
+   },
+   {
+      "word":"cop a feel",
+      "type":"verb phrase"
+   },
+   {
+      "word":"cop out",
+      "type":"null"
+   },
+   {
+      "word":"corner",
+      "type":"verb"
+   },
+   {
+      "word":"cosplay",
+      "type":"noun"
+   },
+   {
+      "word":"cosplay",
+      "type":"noun"
+   },
+   {
+      "word":"cougar",
+      "type":"noun"
+   },
+   {
+      "word":"courtesy rinse",
+      "type":"noun"
+   },
+   {
+      "word":"cozy",
+      "type":"verb"
+   },
+   {
+      "word":"crack",
+      "type":"noun"
+   },
+   {
+      "word":"crackalackin'",
+      "type":"verb"
+   },
+   {
+      "word":"crackberry",
+      "type":"noun"
+   },
+   {
+      "word":"Crackdonald's",
+      "type":"noun"
+   },
+   {
+      "word":"cracked out",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"cracker",
+      "type":"noun"
+   },
+   {
+      "word":"crack head",
+      "type":"noun phrase"
+   },
+   {
+      "word":"crack (someone's) shit up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"Cracworth",
+      "type":"noun"
+   },
+   {
+      "word":"crank",
+      "type":"verb"
+   },
+   {
+      "word":"crank one out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"crank up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"crapper",
+      "type":"noun"
+   },
+   {
+      "word":"crash",
+      "type":"verb"
+   },
+   {
+      "word":"Craxby's",
+      "type":"noun"
+   },
+   {
+      "word":"cray",
+      "type":"adjective"
+   },
+   {
+      "word":"cray-cray",
+      "type":"adjective"
+   },
+   {
+      "word":"cream oneself",
+      "type":"verb phrase"
+   },
+   {
+      "word":"creep",
+      "type":"verb"
+   },
+   {
+      "word":"creeper",
+      "type":"noun"
+   },
+   {
+      "word":"Cres-hell",
+      "type":"noun"
+   },
+   {
+      "word":"crew",
+      "type":"noun"
+   },
+   {
+      "word":"crib",
+      "type":"noun"
+   },
+   {
+      "word":"crig",
+      "type":"noun"
+   },
+   {
+      "word":"crispy",
+      "type":"adjective"
+   },
+   {
+      "word":"crossbuzzing",
+      "type":"verb"
+   },
+   {
+      "word":"crotch rocket",
+      "type":"noun phrase"
+   },
+   {
+      "word":"crowd surf",
+      "type":"verb phrase"
+   },
+   {
+      "word":"Crumby",
+      "type":"noun"
+   },
+   {
+      "word":"crunch time",
+      "type":"noun phrase"
+   },
+   {
+      "word":"crunk",
+      "type":"adjective"
+   },
+   {
+      "word":"crushin'",
+      "type":"verb"
+   },
+   {
+      "word":"crustache",
+      "type":"noun"
+   },
+   {
+      "word":"crusties",
+      "type":"noun"
+   },
+   {
+      "word":"crust punk",
+      "type":"noun phrase"
+   },
+   {
+      "word":"cub",
+      "type":"noun"
+   },
+   {
+      "word":"cunt",
+      "type":"noun"
+   },
+   {
+      "word":"curse of the Bambino, the",
+      "type":"noun"
+   },
+   {
+      "word":"curved",
+      "type":"adjective"
+   },
+   {
+      "word":"cushion",
+      "type":"noun"
+   },
+   {
+      "word":"cut",
+      "type":"verb"
+   },
+   {
+      "word":"cutie",
+      "type":"noun"
+   },
+   {
+      "word":"cut the rug",
+      "type":"verb phrase"
+   },
+   {
+      "word":"cut up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"cuz",
+      "type":"noun"
+   },
+   {
+      "word":"D",
+      "type":"noun"
+   },
+   {
+      "word":"da bomb",
+      "type":"adjective"
+   },
+   {
+      "word":"daggum it",
+      "type":"interjection"
+   },
+   {
+      "word":"dang",
+      "type":"interjection"
+   },
+   {
+      "word":"dank",
+      "type":"adjective"
+   },
+   {
+      "word":"dank",
+      "type":"noun"
+   },
+   {
+      "word":"dat",
+      "type":"noun phrase"
+   },
+   {
+      "word":"dating",
+      "type":"verb"
+   },
+   {
+      "word":"dawg",
+      "type":"noun"
+   },
+   {
+      "word":"DD",
+      "type":"noun"
+   },
+   {
+      "word":"D.D.",
+      "type":"noun"
+   },
+   {
+      "word":"dead fish",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Dead head",
+      "type":"noun"
+   },
+   {
+      "word":"debo",
+      "type":"verb"
+   },
+   {
+      "word":"deep throat",
+      "type":"verb phrase"
+   },
+   {
+      "word":"def",
+      "type":"adverb"
+   },
+   {
+      "word":"defriend",
+      "type":"verb"
+   },
+   {
+      "word":"dejabrew",
+      "type":"noun"
+   },
+   {
+      "word":"derp",
+      "type":"verb"
+   },
+   {
+      "word":"derp",
+      "type":"noun"
+   },
+   {
+      "word":"designated driver",
+      "type":"noun phrase"
+   },
+   {
+      "word":"deuces",
+      "type":"interjection"
+   },
+   {
+      "word":"devil's threesome",
+      "type":"noun phrase"
+   },
+   {
+      "word":"dick around",
+      "type":"verb phrase"
+   },
+   {
+      "word":"digits",
+      "type":"noun"
+   },
+   {
+      "word":"dig one's own grave",
+      "type":"idiom"
+   },
+   {
+      "word":"dime bag",
+      "type":"noun phrase"
+   },
+   {
+      "word":"dingleberry",
+      "type":"noun"
+   },
+   {
+      "word":"dip",
+      "type":"noun"
+   },
+   {
+      "word":"dip",
+      "type":"verb"
+   },
+   {
+      "word":"dirt",
+      "type":"noun"
+   },
+   {
+      "word":"dirt Lip",
+      "type":"noun"
+   },
+   {
+      "word":"disco stick",
+      "type":"noun phrase"
+   },
+   {
+      "word":"dish",
+      "type":"noun"
+   },
+   {
+      "word":"diss",
+      "type":"verb"
+   },
+   {
+      "word":"DIY",
+      "type":"adjective"
+   },
+   {
+      "word":"DL",
+      "type":"noun"
+   },
+   {
+      "word":"D.L.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"DLC",
+      "type":"abbreviation"
+   },
+   {
+      "word":"do",
+      "type":"verb"
+   },
+   {
+      "word":"doable",
+      "type":"adjective"
+   },
+   {
+      "word":"does a bear shit in the woods? (and wipe his ass with a rabbit?)",
+      "type":"idiom"
+   },
+   {
+      "word":"dog",
+      "type":"noun"
+   },
+   {
+      "word":"dog",
+      "type":"verb"
+   },
+   {
+      "word":"doing the most",
+      "type":"verb phrase"
+   },
+   {
+      "word":"doing the most",
+      "type":"verb"
+   },
+   {
+      "word":"doin' the nasty",
+      "type":"verb phrase"
+   },
+   {
+      "word":"do it big",
+      "type":"verb phrase"
+   },
+   {
+      "word":"Do it for the Vine",
+      "type":"verb phrase"
+   },
+   {
+      "word":"do Less",
+      "type":"verb phrase"
+   },
+   {
+      "word":"done for",
+      "type":"adjective"
+   },
+   {
+      "word":"donezo",
+      "type":"adjective"
+   },
+   {
+      "word":"donk",
+      "type":"noun"
+   },
+   {
+      "word":"donkey",
+      "type":"noun"
+   },
+   {
+      "word":"don't know jack",
+      "type":"verb phrase"
+   },
+   {
+      "word":"don't sweat it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"doobie",
+      "type":"noun"
+   },
+   {
+      "word":"do one's own thing",
+      "type":"verb phrase"
+   },
+   {
+      "word":"doo-rag",
+      "type":"noun"
+   },
+   {
+      "word":"Door to Nothingness",
+      "type":"noun phrase"
+   },
+   {
+      "word":"dope",
+      "type":"adjective"
+   },
+   {
+      "word":"dope",
+      "type":"noun"
+   },
+   {
+      "word":"dork",
+      "type":"noun"
+   },
+   {
+      "word":"dormcest",
+      "type":"noun"
+   },
+   {
+      "word":"dotcomrade",
+      "type":"noun"
+   },
+   {
+      "word":"double bag",
+      "type":"verb phrase"
+   },
+   {
+      "word":"double bag",
+      "type":"noun phrase"
+   },
+   {
+      "word":"double bagger",
+      "type":"noun phrase"
+   },
+   {
+      "word":"double click the mouse",
+      "type":"verb phrase"
+   },
+   {
+      "word":"double dawg",
+      "type":"noun phrase"
+   },
+   {
+      "word":"double dawg",
+      "type":"verb phrase"
+   },
+   {
+      "word":"double stacks",
+      "type":"noun phrase"
+   },
+   {
+      "word":"double super",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"douche",
+      "type":"noun"
+   },
+   {
+      "word":"douche bag",
+      "type":"noun phrase"
+   },
+   {
+      "word":"douchebaggery",
+      "type":"noun"
+   },
+   {
+      "word":"down",
+      "type":"verb"
+   },
+   {
+      "word":"down",
+      "type":"adjective"
+   },
+   {
+      "word":"down chick",
+      "type":"noun"
+   },
+   {
+      "word":"downright",
+      "type":"adverb"
+   },
+   {
+      "word":"downtown",
+      "type":"noun"
+   },
+   {
+      "word":"down with that",
+      "type":"idiom"
+   },
+   {
+      "word":"do work",
+      "type":"verb phrase"
+   },
+   {
+      "word":"drag",
+      "type":"noun"
+   },
+   {
+      "word":"drag, in",
+      "type":"idiom"
+   },
+   {
+      "word":"drained",
+      "type":"adjective"
+   },
+   {
+      "word":"drama",
+      "type":"noun"
+   },
+   {
+      "word":"drama queen",
+      "type":"noun phrase"
+   },
+   {
+      "word":"dreds",
+      "type":"noun"
+   },
+   {
+      "word":"dreg",
+      "type":"noun"
+   },
+   {
+      "word":"drink",
+      "type":"verb"
+   },
+   {
+      "word":"drinking hatorade",
+      "type":"verb phrase"
+   },
+   {
+      "word":"drink the kool aid",
+      "type":"idiom"
+   },
+   {
+      "word":"dro",
+      "type":"noun"
+   },
+   {
+      "word":"drop",
+      "type":"verb"
+   },
+   {
+      "word":"drop a bomb",
+      "type":"verb phrase"
+   },
+   {
+      "word":"drop a deuce",
+      "type":"verb phrase"
+   },
+   {
+      "word":"drop the boy/girlfriend bomb",
+      "type":"verb"
+   },
+   {
+      "word":"drop the f-bomb",
+      "type":"verb phrase"
+   },
+   {
+      "word":"drop the kids off at the pool",
+      "type":"verb phrase"
+   },
+   {
+      "word":"drunchies",
+      "type":"noun"
+   },
+   {
+      "word":"drunk dialing",
+      "type":"verb phrase"
+   },
+   {
+      "word":"drunkenese",
+      "type":"noun"
+   },
+   {
+      "word":"drunk Hole",
+      "type":"noun"
+   },
+   {
+      "word":"drunksexual",
+      "type":"noun"
+   },
+   {
+      "word":"dry humping",
+      "type":"verb phrase"
+   },
+   {
+      "word":"DSL's",
+      "type":"abbreviation"
+   },
+   {
+      "word":"DT",
+      "type":"noun"
+   },
+   {
+      "word":"DTF",
+      "type":"idiom"
+   },
+   {
+      "word":"DTR",
+      "type":"Acronym"
+   },
+   {
+      "word":"duckface",
+      "type":"noun"
+   },
+   {
+      "word":"ducking",
+      "type":"adjective"
+   },
+   {
+      "word":"dude",
+      "type":"noun"
+   },
+   {
+      "word":"dude",
+      "type":"interjection"
+   },
+   {
+      "word":"dudebro",
+      "type":"noun"
+   },
+   {
+      "word":"duff",
+      "type":"noun"
+   },
+   {
+      "word":"dugan",
+      "type":"null"
+   },
+   {
+      "word":"dumb-ass",
+      "type":"adjective"
+   },
+   {
+      "word":"dumb-ass",
+      "type":"noun"
+   },
+   {
+      "word":"dump",
+      "type":"verb"
+   },
+   {
+      "word":"dumps",
+      "type":"noun"
+   },
+   {
+      "word":"dumpster dive",
+      "type":"verb phrase"
+   },
+   {
+      "word":"dutch oven",
+      "type":"noun"
+   },
+   {
+      "word":"dweet",
+      "type":"verb"
+   },
+   {
+      "word":"dyke",
+      "type":"noun"
+   },
+   {
+      "word":"earmuffs",
+      "type":"verb"
+   },
+   {
+      "word":"East Camp-ass",
+      "type":"noun"
+   },
+   {
+      "word":"East Jesus Nowhere",
+      "type":"noun phrase"
+   },
+   {
+      "word":"East Side Funk",
+      "type":"noun"
+   },
+   {
+      "word":"easy",
+      "type":"adjective"
+   },
+   {
+      "word":"eat",
+      "type":"verb"
+   },
+   {
+      "word":"E.C.V.",
+      "type":"acronym"
+   },
+   {
+      "word":"Edward 40 Hands",
+      "type":"verb"
+   },
+   {
+      "word":"eff",
+      "type":"interjection"
+   },
+   {
+      "word":"eight-ball",
+      "type":"noun"
+   },
+   {
+      "word":"eighth",
+      "type":"noun"
+   },
+   {
+      "word":"emo",
+      "type":"adjective"
+   },
+   {
+      "word":"emotional doormat",
+      "type":"noun phrase"
+   },
+   {
+      "word":"engrish",
+      "type":"noun"
+   },
+   {
+      "word":"epic",
+      "type":"interjection"
+   },
+   {
+      "word":"epic fail",
+      "type":"interjection"
+   },
+   {
+      "word":"Ermehgerd",
+      "type":"Interjection"
+   },
+   {
+      "word":"Eskimo brothers",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Eskimo sisters",
+      "type":"noun phrase"
+   },
+   {
+      "word":"extra",
+      "type":"adjective"
+   },
+   {
+      "word":"extra",
+      "type":"adjective"
+   },
+   {
+      "word":"extra padding",
+      "type":"noun phrase"
+   },
+   {
+      "word":"eye candy",
+      "type":"noun"
+   },
+   {
+      "word":"eye fuck",
+      "type":"verb"
+   },
+   {
+      "word":"eyes",
+      "type":"noun"
+   },
+   {
+      "word":"fab",
+      "type":"adjective"
+   },
+   {
+      "word":"fabulous",
+      "type":"adjective"
+   },
+   {
+      "word":"facebook",
+      "type":"verb"
+   },
+   {
+      "word":"facebook",
+      "type":"noun"
+   },
+   {
+      "word":"facebook abuser",
+      "type":"noun"
+   },
+   {
+      "word":"facebook minute",
+      "type":"noun"
+   },
+   {
+      "word":"facebook official",
+      "type":"adjective"
+   },
+   {
+      "word":"facebook official",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"facebook slut",
+      "type":"noun"
+   },
+   {
+      "word":"facebook stalk",
+      "type":"verb"
+   },
+   {
+      "word":"facepalm",
+      "type":"interjection"
+   },
+   {
+      "word":"face plant",
+      "type":"verb phrase"
+   },
+   {
+      "word":"facial",
+      "type":"noun"
+   },
+   {
+      "word":"faded",
+      "type":"adjective"
+   },
+   {
+      "word":"fag",
+      "type":"suffix"
+   },
+   {
+      "word":"fag hag",
+      "type":"noun phrase"
+   },
+   {
+      "word":"fag stag",
+      "type":"noun"
+   },
+   {
+      "word":"fairy",
+      "type":"noun"
+   },
+   {
+      "word":"fam",
+      "type":"noun"
+   },
+   {
+      "word":"Famiry Housing",
+      "type":"noun"
+   },
+   {
+      "word":"fancy",
+      "type":"adjective"
+   },
+   {
+      "word":"fangirl",
+      "type":"noun"
+   },
+   {
+      "word":"fangirling",
+      "type":"verb"
+   },
+   {
+      "word":"fap",
+      "type":"noun"
+   },
+   {
+      "word":"fap",
+      "type":"verb"
+   },
+   {
+      "word":"fappable",
+      "type":"adjective"
+   },
+   {
+      "word":"Farm, The",
+      "type":"noun"
+   },
+   {
+      "word":"fast",
+      "type":"adjective"
+   },
+   {
+      "word":"fatty",
+      "type":"noun"
+   },
+   {
+      "word":"faux fag",
+      "type":"noun"
+   },
+   {
+      "word":"fauxhawk",
+      "type":"noun"
+   },
+   {
+      "word":"fav",
+      "type":"adjective"
+   },
+   {
+      "word":"fawkward",
+      "type":"adjective"
+   },
+   {
+      "word":"FBO",
+      "type":"Acronym"
+   },
+   {
+      "word":"f'ed",
+      "type":"adjective"
+   },
+   {
+      "word":"feel",
+      "type":"verb"
+   },
+   {
+      "word":"feel it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"feminazi",
+      "type":"noun"
+   },
+   {
+      "word":"ferosh",
+      "type":"adjective"
+   },
+   {
+      "word":"fess up",
+      "type":"verb"
+   },
+   {
+      "word":"fetch",
+      "type":"adjective"
+   },
+   {
+      "word":"fffffffff",
+      "type":"Interjection"
+   },
+   {
+      "word":"field, the",
+      "type":"noun"
+   },
+   {
+      "word":"fierce",
+      "type":"adjective"
+   },
+   {
+      "word":"filthy",
+      "type":"adjective"
+   },
+   {
+      "word":"fine",
+      "type":"adjective"
+   },
+   {
+      "word":"f-ing A",
+      "type":"noun phrase"
+   },
+   {
+      "word":"finish the drill",
+      "type":"verb phrase"
+   },
+   {
+      "word":"Finish the Drill",
+      "type":"verb phrase"
+   },
+   {
+      "word":"fin'na",
+      "type":"adverb"
+   },
+   {
+      "word":"fire",
+      "type":"noun"
+   },
+   {
+      "word":"fire",
+      "type":"adjective"
+   },
+   {
+      "word":"firecracker",
+      "type":"noun"
+   },
+   {
+      "word":"fist pump",
+      "type":"interjection"
+   },
+   {
+      "word":"fitna",
+      "type":"verb"
+   },
+   {
+      "word":"fitty",
+      "type":"noun"
+   },
+   {
+      "word":"five fingered discount",
+      "type":"noun phrase"
+   },
+   {
+      "word":"five kinds of ridiculous",
+      "type":"idiom"
+   },
+   {
+      "word":"five-oh",
+      "type":"noun"
+   },
+   {
+      "word":"five second rule",
+      "type":"noun phrase"
+   },
+   {
+      "word":"fixie",
+      "type":"noun"
+   },
+   {
+      "word":"fixin'",
+      "type":"verb"
+   },
+   {
+      "word":"f**kbag",
+      "type":"noun"
+   },
+   {
+      "word":"f**k buddy",
+      "type":"noun phrase"
+   },
+   {
+      "word":"f**ked",
+      "type":"adjective"
+   },
+   {
+      "word":"f**ked Up",
+      "type":"adjective"
+   },
+   {
+      "word":"f**king",
+      "type":"adverb"
+   },
+   {
+      "word":"f**k is on your biscuit",
+      "type":"idiom"
+   },
+   {
+      "word":"f**k me",
+      "type":"interjection"
+   },
+   {
+      "word":"f**k-me boots",
+      "type":"noun phrase"
+   },
+   {
+      "word":"f**ktard",
+      "type":"noun"
+   },
+   {
+      "word":"f**ktarded",
+      "type":"adjective"
+   },
+   {
+      "word":"f**kup boots",
+      "type":"noun phrase"
+   },
+   {
+      "word":"flag on the play",
+      "type":"idiom"
+   },
+   {
+      "word":"flake",
+      "type":"verb"
+   },
+   {
+      "word":"flake",
+      "type":"noun"
+   },
+   {
+      "word":"flaky",
+      "type":"adjective"
+   },
+   {
+      "word":"flame",
+      "type":"verb"
+   },
+   {
+      "word":"flamer",
+      "type":"noun"
+   },
+   {
+      "word":"flaming",
+      "type":"adjective"
+   },
+   {
+      "word":"Flans",
+      "type":"noun"
+   },
+   {
+      "word":"flat as an iron",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"flat out",
+      "type":"adverb"
+   },
+   {
+      "word":"flavor of the week",
+      "type":"noun phrase"
+   },
+   {
+      "word":"flex",
+      "type":"verb"
+   },
+   {
+      "word":"flexing",
+      "type":"verb"
+   },
+   {
+      "word":"flick",
+      "type":"noun"
+   },
+   {
+      "word":"flip",
+      "type":"verb"
+   },
+   {
+      "word":"flip cup",
+      "type":"noun phrase"
+   },
+   {
+      "word":"flippy",
+      "type":"noun"
+   },
+   {
+      "word":"flip side",
+      "type":"noun phrase"
+   },
+   {
+      "word":"float the keg",
+      "type":"verb phrase"
+   },
+   {
+      "word":"flooding",
+      "type":"verb"
+   },
+   {
+      "word":"floppy flask",
+      "type":"noun phrase"
+   },
+   {
+      "word":"flow",
+      "type":"noun"
+   },
+   {
+      "word":"flush",
+      "type":"verb"
+   },
+   {
+      "word":"fly",
+      "type":"adjective"
+   },
+   {
+      "word":"fly",
+      "type":"verb"
+   },
+   {
+      "word":"FML",
+      "type":"interjection"
+   },
+   {
+      "word":"f my life",
+      "type":"interjection"
+   },
+   {
+      "word":"folks, the",
+      "type":"noun"
+   },
+   {
+      "word":"food baby",
+      "type":"noun phrase"
+   },
+   {
+      "word":"football minute",
+      "type":"noun phrase"
+   },
+   {
+      "word":"fork",
+      "type":"verb"
+   },
+   {
+      "word":"for real, though",
+      "type":"idiom"
+   },
+   {
+      "word":"for serious",
+      "type":"adjective"
+   },
+   {
+      "word":"for serious",
+      "type":"adverb"
+   },
+   {
+      "word":"for the win",
+      "type":"expression"
+   },
+   {
+      "word":"forty",
+      "type":"noun"
+   },
+   {
+      "word":"fo' shizzle",
+      "type":"interjection"
+   },
+   {
+      "word":"fo' sho'",
+      "type":"interjection"
+   },
+   {
+      "word":"fourth meal",
+      "type":"noun phrase"
+   },
+   {
+      "word":"FPS",
+      "type":"abbreviation"
+   },
+   {
+      "word":"F.P.S.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"frag",
+      "type":"verb phrase"
+   },
+   {
+      "word":"frape",
+      "type":"verb"
+   },
+   {
+      "word":"fratastic",
+      "type":"adjective"
+   },
+   {
+      "word":"frat beach",
+      "type":"noun phrase"
+   },
+   {
+      "word":"frat boy",
+      "type":"noun phrase"
+   },
+   {
+      "word":"frat it up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"frat mat",
+      "type":"noun phrase"
+   },
+   {
+      "word":"fratmosphere",
+      "type":"noun"
+   },
+   {
+      "word":"frat pack",
+      "type":"noun phrase"
+   },
+   {
+      "word":"fratstar",
+      "type":"noun"
+   },
+   {
+      "word":"fratty",
+      "type":"adjective"
+   },
+   {
+      "word":"freak",
+      "type":"noun"
+   },
+   {
+      "word":"freaking",
+      "type":"adverb"
+   },
+   {
+      "word":"freaking",
+      "type":"verb"
+   },
+   {
+      "word":"freak out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"freaky",
+      "type":"adjective"
+   },
+   {
+      "word":"free ballin'",
+      "type":"verb phrase"
+   },
+   {
+      "word":"freeze up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"french",
+      "type":"verb"
+   },
+   {
+      "word":"French shower/bath",
+      "type":"noun"
+   },
+   {
+      "word":"fried",
+      "type":"adjective"
+   },
+   {
+      "word":"friend",
+      "type":"verb"
+   },
+   {
+      "word":"friendly",
+      "type":"adjective"
+   },
+   {
+      "word":"friend whore",
+      "type":"noun phrase"
+   },
+   {
+      "word":"friendzoned",
+      "type":"verb"
+   },
+   {
+      "word":"frienemy",
+      "type":"noun"
+   },
+   {
+      "word":"friggin'",
+      "type":"adverb"
+   },
+   {
+      "word":"frikkin'",
+      "type":"adverb"
+   },
+   {
+      "word":"fro",
+      "type":"noun"
+   },
+   {
+      "word":"froldy",
+      "type":"noun"
+   },
+   {
+      "word":"front",
+      "type":"verb"
+   },
+   {
+      "word":"front pewer",
+      "type":"noun phrase"
+   },
+   {
+      "word":"frosh",
+      "type":"noun"
+   },
+   {
+      "word":"fro yo",
+      "type":"noun"
+   },
+   {
+      "word":"fruit fly",
+      "type":"noun"
+   },
+   {
+      "word":"fruit loop",
+      "type":"noun"
+   },
+   {
+      "word":"fruity",
+      "type":"adjective"
+   },
+   {
+      "word":"frumpy",
+      "type":"adjective"
+   },
+   {
+      "word":"FTFY",
+      "type":"acronym"
+   },
+   {
+      "word":"ftw",
+      "type":"interjection"
+   },
+   {
+      "word":"ftw",
+      "type":"interjection"
+   },
+   {
+      "word":"FTW",
+      "type":"abbreviation"
+   },
+   {
+      "word":"F.U.",
+      "type":"abbreviation, verb phrase"
+   },
+   {
+      "word":"fubar",
+      "type":"adjective"
+   },
+   {
+      "word":"fucktarded",
+      "type":"adjective"
+   },
+   {
+      "word":"fudge packer",
+      "type":"noun phrase"
+   },
+   {
+      "word":"fugly",
+      "type":"adjective"
+   },
+   {
+      "word":"fularious",
+      "type":"adjective"
+   },
+   {
+      "word":"funbags",
+      "type":"noun"
+   },
+   {
+      "word":"fungry",
+      "type":"adjective"
+   },
+   {
+      "word":"funnel",
+      "type":"verb"
+   },
+   {
+      "word":"furry",
+      "type":"noun"
+   },
+   {
+      "word":"fwap",
+      "type":"verb"
+   },
+   {
+      "word":"G",
+      "type":"noun"
+   },
+   {
+      "word":"G2",
+      "type":"noun"
+   },
+   {
+      "word":"gallon challenge",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Galo",
+      "type":"noun"
+   },
+   {
+      "word":"game",
+      "type":"noun"
+   },
+   {
+      "word":"game",
+      "type":"adjective"
+   },
+   {
+      "word":"gamer",
+      "type":"noun"
+   },
+   {
+      "word":"gangsta",
+      "type":"noun"
+   },
+   {
+      "word":"gangsta bitch",
+      "type":"noun phrase"
+   },
+   {
+      "word":"gassed",
+      "type":"adjective"
+   },
+   {
+      "word":"gassed",
+      "type":"adjective"
+   },
+   {
+      "word":"GATA",
+      "type":"verb phrase"
+   },
+   {
+      "word":"gawh",
+      "type":"interjection"
+   },
+   {
+      "word":"gay",
+      "type":"adjective"
+   },
+   {
+      "word":"gaybors",
+      "type":"noun"
+   },
+   {
+      "word":"gaydar",
+      "type":"noun"
+   },
+   {
+      "word":"gazongas",
+      "type":"noun"
+   },
+   {
+      "word":"GBF",
+      "type":"abbreviation"
+   },
+   {
+      "word":"GDI",
+      "type":"noun phrase"
+   },
+   {
+      "word":"GDI",
+      "type":"interjection"
+   },
+   {
+      "word":"geek",
+      "type":"verb"
+   },
+   {
+      "word":"geek",
+      "type":"noun"
+   },
+   {
+      "word":"Generation XL",
+      "type":"noun phrase"
+   },
+   {
+      "word":"gentleman and a scholar",
+      "type":"noun phrase"
+   },
+   {
+      "word":"george",
+      "type":"noun"
+   },
+   {
+      "word":"Georgia peach",
+      "type":"noun"
+   },
+   {
+      "word":"get after it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get a piece",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get a room",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get at me",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get back in the game",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get burned",
+      "type":"verb"
+   },
+   {
+      "word":"get down",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get down and dirty",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get into it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get off",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get off",
+      "type":"interjection"
+   },
+   {
+      "word":"get off",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get off my nuts",
+      "type":"interjection"
+   },
+   {
+      "word":"get one's drink on",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get one's freak on",
+      "type":"noun phrase"
+   },
+   {
+      "word":"get one's groove on",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get one's weight up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get on my level",
+      "type":"Idiom"
+   },
+   {
+      "word":"get owned",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get pwned",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get rocked",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get served",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get slammed",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get (someone) hook, line, and sinker",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get tail",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get the boot",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get there",
+      "type":"interjection"
+   },
+   {
+      "word":"getting it in",
+      "type":"verb phrase"
+   },
+   {
+      "word":"getting weird",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get told",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get wrecked",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get your dick wet",
+      "type":"verb phrase"
+   },
+   {
+      "word":"get you some sugar",
+      "type":"verb phrase"
+   },
+   {
+      "word":"ghetto",
+      "type":"adjective"
+   },
+   {
+      "word":"ghost",
+      "type":"verb"
+   },
+   {
+      "word":"gig",
+      "type":"verb"
+   },
+   {
+      "word":"gimp",
+      "type":"adjective"
+   },
+   {
+      "word":"gimp",
+      "type":"noun"
+   },
+   {
+      "word":"ginger",
+      "type":"noun"
+   },
+   {
+      "word":"ginormous",
+      "type":"adjective"
+   },
+   {
+      "word":"girls, the",
+      "type":"noun"
+   },
+   {
+      "word":"git 'er done",
+      "type":"interjection"
+   },
+   {
+      "word":"give a shit",
+      "type":"verb phrase"
+   },
+   {
+      "word":"give face",
+      "type":"verb phrase"
+   },
+   {
+      "word":"give props",
+      "type":"verb phrase"
+   },
+   {
+      "word":"give (someone) a shout",
+      "type":"verb phrase"
+   },
+   {
+      "word":"give (someone) the Heisman",
+      "type":"verb phrase"
+   },
+   {
+      "word":"giving it up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"gleek",
+      "type":"noun"
+   },
+   {
+      "word":"Glory",
+      "type":"noun"
+   },
+   {
+      "word":"glove",
+      "type":"noun"
+   },
+   {
+      "word":"glutard",
+      "type":"noun"
+   },
+   {
+      "word":"goat",
+      "type":"noun"
+   },
+   {
+      "word":"GOAT",
+      "type":"phrase"
+   },
+   {
+      "word":"go down",
+      "type":"verb phrase"
+   },
+   {
+      "word":"go DT",
+      "type":"verb phrase"
+   },
+   {
+      "word":"go figure",
+      "type":"interjection"
+   },
+   {
+      "word":"go green",
+      "type":"verb phrase"
+   },
+   {
+      "word":"go ham on (somebody)",
+      "type":"verb phrase"
+   },
+   {
+      "word":"going out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"gold digger",
+      "type":"noun phrase"
+   },
+   {
+      "word":"gone",
+      "type":"adjective"
+   },
+   {
+      "word":"gooch",
+      "type":"noun"
+   },
+   {
+      "word":"goodies",
+      "type":"noun"
+   },
+   {
+      "word":"good ol' boy",
+      "type":"noun phrase"
+   },
+   {
+      "word":"good to go",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"google",
+      "type":"verb"
+   },
+   {
+      "word":"Google-fu",
+      "type":"noun"
+   },
+   {
+      "word":"go out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"got back",
+      "type":"verb phrase"
+   },
+   {
+      "word":"goth",
+      "type":"noun"
+   },
+   {
+      "word":"go up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"grand",
+      "type":"noun"
+   },
+   {
+      "word":"grandma",
+      "type":"noun"
+   },
+   {
+      "word":"grass",
+      "type":"noun"
+   },
+   {
+      "word":"grassy-ass",
+      "type":"interjection"
+   },
+   {
+      "word":"Greek",
+      "type":"adjective"
+   },
+   {
+      "word":"green",
+      "type":"adjective"
+   },
+   {
+      "word":"green",
+      "type":"noun"
+   },
+   {
+      "word":"greens",
+      "type":"noun"
+   },
+   {
+      "word":"grenade",
+      "type":"noun"
+   },
+   {
+      "word":"grill",
+      "type":"noun"
+   },
+   {
+      "word":"grind",
+      "type":"verb"
+   },
+   {
+      "word":"grinder",
+      "type":"noun"
+   },
+   {
+      "word":"grindin'",
+      "type":"verb"
+   },
+   {
+      "word":"G.R.I.T.S.",
+      "type":"noun"
+   },
+   {
+      "word":"Grown Man Football",
+      "type":"adjective"
+   },
+   {
+      "word":"grub",
+      "type":"noun"
+   },
+   {
+      "word":"gtfo",
+      "type":"interjection"
+   },
+   {
+      "word":"guap",
+      "type":"noun"
+   },
+   {
+      "word":"guido",
+      "type":"noun"
+   },
+   {
+      "word":"guns",
+      "type":"noun"
+   },
+   {
+      "word":"guys finger, bitches blow",
+      "type":"idiom"
+   },
+   {
+      "word":"half ass",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"half ass",
+      "type":"verb phrase"
+   },
+   {
+      "word":"half gallon homo",
+      "type":"noun phrase"
+   },
+   {
+      "word":"halp",
+      "type":"interjection"
+   },
+   {
+      "word":"hammer",
+      "type":"noun"
+   },
+   {
+      "word":"hammered",
+      "type":"adjective"
+   },
+   {
+      "word":"handle",
+      "type":"noun"
+   },
+   {
+      "word":"handy",
+      "type":"noun"
+   },
+   {
+      "word":"hang",
+      "type":"verb"
+   },
+   {
+      "word":"hang out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"happy trail",
+      "type":"noun phrase"
+   },
+   {
+      "word":"hardass",
+      "type":"noun"
+   },
+   {
+      "word":"hardcore",
+      "type":"adverb"
+   },
+   {
+      "word":"hashtag",
+      "type":"noun"
+   },
+   {
+      "word":"Hashtag",
+      "type":"Emotion Marker"
+   },
+   {
+      "word":"hate on",
+      "type":"verb phrase"
+   },
+   {
+      "word":"hater",
+      "type":"noun"
+   },
+   {
+      "word":"hat trick",
+      "type":"noun phrase"
+   },
+   {
+      "word":"haul ass",
+      "type":"verb phrase"
+   },
+   {
+      "word":"have one's period",
+      "type":"verb phrase"
+   },
+   {
+      "word":"haxor",
+      "type":"noun"
+   },
+   {
+      "word":"head",
+      "type":"noun"
+   },
+   {
+      "word":"headlights",
+      "type":"noun"
+   },
+   {
+      "word":"heads",
+      "type":"noun"
+   },
+   {
+      "word":"heads up",
+      "type":"noun phrase"
+   },
+   {
+      "word":"heads up",
+      "type":"interjection"
+   },
+   {
+      "word":"heady",
+      "type":"adjective"
+   },
+   {
+      "word":"heart",
+      "type":"verb"
+   },
+   {
+      "word":"hella",
+      "type":"adverb"
+   },
+   {
+      "word":"hells",
+      "type":"interjection"
+   },
+   {
+      "word":"hellz yeah",
+      "type":"expression"
+   },
+   {
+      "word":"Hennessey",
+      "type":"noun"
+   },
+   {
+      "word":"hentai",
+      "type":"noun"
+   },
+   {
+      "word":"herb",
+      "type":"noun"
+   },
+   {
+      "word":"herre",
+      "type":"adverb"
+   },
+   {
+      "word":"heterofabulous",
+      "type":"adjective"
+   },
+   {
+      "word":"high maintenance",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"highwaters",
+      "type":"noun"
+   },
+   {
+      "word":"hilare",
+      "type":"adjective"
+   },
+   {
+      "word":"hip",
+      "type":"adjective"
+   },
+   {
+      "word":"hippy flipping",
+      "type":"verb"
+   },
+   {
+      "word":"hippy hill",
+      "type":"noun phrase"
+   },
+   {
+      "word":"hipster",
+      "type":"noun"
+   },
+   {
+      "word":"hit it",
+      "type":"verb"
+   },
+   {
+      "word":"hit it raw",
+      "type":"verb phrase"
+   },
+   {
+      "word":"hit (someone) up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"hit that",
+      "type":"verb phrase"
+   },
+   {
+      "word":"hit the sack",
+      "type":"verb phrase"
+   },
+   {
+      "word":"hit the wall",
+      "type":"verb phrase"
+   },
+   {
+      "word":"hit up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"ho",
+      "type":"noun"
+   },
+   {
+      "word":"HOASIS",
+      "type":"noun"
+   },
+   {
+      "word":"ho boots",
+      "type":"noun phrase"
+   },
+   {
+      "word":"hog",
+      "type":"verb"
+   },
+   {
+      "word":"holding",
+      "type":"verb"
+   },
+   {
+      "word":"holla",
+      "type":"verb"
+   },
+   {
+      "word":"holla",
+      "type":"interjection"
+   },
+   {
+      "word":"holla back",
+      "type":"verb phrase"
+   },
+   {
+      "word":"holler",
+      "type":"interjection"
+   },
+   {
+      "word":"holler",
+      "type":"verb"
+   },
+   {
+      "word":"holler back at that",
+      "type":"interjection"
+   },
+   {
+      "word":"holmes",
+      "type":"noun"
+   },
+   {
+      "word":"homeboy",
+      "type":"noun"
+   },
+   {
+      "word":"homegirl",
+      "type":"noun"
+   },
+   {
+      "word":"homes",
+      "type":"noun"
+   },
+   {
+      "word":"homeslice",
+      "type":"noun"
+   },
+   {
+      "word":"homey",
+      "type":"noun"
+   },
+   {
+      "word":"hon",
+      "type":"noun"
+   },
+   {
+      "word":"honker",
+      "type":"noun"
+   },
+   {
+      "word":"honking",
+      "type":"adjective"
+   },
+   {
+      "word":"honky",
+      "type":"noun"
+   },
+   {
+      "word":"hooch",
+      "type":"noun"
+   },
+   {
+      "word":"hoochie",
+      "type":"adjective"
+   },
+   {
+      "word":"hoochie",
+      "type":"noun"
+   },
+   {
+      "word":"hook up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"hook up",
+      "type":"noun phrase"
+   },
+   {
+      "word":"hook up",
+      "type":"verb"
+   },
+   {
+      "word":"Hoopin'",
+      "type":"verb"
+   },
+   {
+      "word":"hoops",
+      "type":"noun"
+   },
+   {
+      "word":"Hosed",
+      "type":"adjective"
+   },
+   {
+      "word":"hot",
+      "type":"adjective"
+   },
+   {
+      "word":"hotbox",
+      "type":"verb"
+   },
+   {
+      "word":"hot mess",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Hot Mess",
+      "type":"noun"
+   },
+   {
+      "word":"Hot Minute",
+      "type":"noun"
+   },
+   {
+      "word":"hot relations",
+      "type":"noun phrase"
+   },
+   {
+      "word":"hot sex",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"hottie",
+      "type":"noun"
+   },
+   {
+      "word":"howdy",
+      "type":"noun"
+   },
+   {
+      "word":"howdy",
+      "type":"interjection"
+   },
+   {
+      "word":"how goes it?",
+      "type":"idiom"
+   },
+   {
+      "word":"HUA",
+      "type":"interjection"
+   },
+   {
+      "word":"hump",
+      "type":"verb"
+   },
+   {
+      "word":"humps",
+      "type":"noun"
+   },
+   {
+      "word":"hunchpunch",
+      "type":"noun"
+   },
+   {
+      "word":"HYFR",
+      "type":"acronym"
+   },
+   {
+      "word":"I can dig it",
+      "type":"idiom"
+   },
+   {
+      "word":"I can't",
+      "type":"interjection"
+   },
+   {
+      "word":"ice",
+      "type":"verb"
+   },
+   {
+      "word":"ice",
+      "type":"noun"
+   },
+   {
+      "word":"iced out",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"ice luge",
+      "type":"noun phrase"
+   },
+   {
+      "word":"icing on the cake",
+      "type":"noun phrase"
+   },
+   {
+      "word":"IDGAF",
+      "type":"interjection"
+   },
+   {
+      "word":"IG",
+      "type":"noun"
+   },
+   {
+      "word":"I know that feel",
+      "type":"idiom"
+   },
+   {
+      "word":"ill",
+      "type":"adjective"
+   },
+   {
+      "word":"I'm game",
+      "type":"verb phrase"
+   },
+   {
+      "word":"I'm good",
+      "type":"idiom"
+   },
+   {
+      "word":"I'm out",
+      "type":"interjection"
+   },
+   {
+      "word":"In a good way",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"inb4",
+      "type":"prepositional phrase"
+   },
+   {
+      "word":"in check",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"Indian Standard Time (IST)",
+      "type":"noun phrase"
+   },
+   {
+      "word":"indie",
+      "type":"adjective"
+   },
+   {
+      "word":"indo",
+      "type":"noun"
+   },
+   {
+      "word":"insane",
+      "type":"adjective"
+   },
+   {
+      "word":"insta",
+      "type":"noun"
+   },
+   {
+      "word":"instawhore",
+      "type":"noun"
+   },
+   {
+      "word":"internets",
+      "type":"noun"
+   },
+   {
+      "word":"in the bag",
+      "type":"idiom"
+   },
+   {
+      "word":"in the doghouse",
+      "type":"idiom"
+   },
+   {
+      "word":"in the slammer",
+      "type":"idiom"
+   },
+   {
+      "word":"In the weeds",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"into",
+      "type":"idiom"
+   },
+   {
+      "word":"IRL",
+      "type":"abbreviation"
+   },
+   {
+      "word":"Iron triangle",
+      "type":"noun"
+   },
+   {
+      "word":"I see you",
+      "type":"verb phrase"
+   },
+   {
+      "word":"ish",
+      "type":"noun"
+   },
+   {
+      "word":"-ish",
+      "type":"suffix"
+   },
+   {
+      "word":"issues",
+      "type":"noun"
+   },
+   {
+      "word":"ITP",
+      "type":"adjective"
+   },
+   {
+      "word":"it's all good",
+      "type":"idiom"
+   },
+   {
+      "word":"it's snowing",
+      "type":"verb phrase"
+   },
+   {
+      "word":"Itty Bitty Titty Committee",
+      "type":"noun phrase"
+   },
+   {
+      "word":"j",
+      "type":"noun"
+   },
+   {
+      "word":"jacked",
+      "type":"adjective"
+   },
+   {
+      "word":"jacked up",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"Jager Bomb",
+      "type":"noun"
+   },
+   {
+      "word":"jailbait",
+      "type":"noun"
+   },
+   {
+      "word":"jam",
+      "type":"noun"
+   },
+   {
+      "word":"jam",
+      "type":"verb"
+   },
+   {
+      "word":"jammy jam",
+      "type":"noun phrase"
+   },
+   {
+      "word":"jank",
+      "type":"adjective"
+   },
+   {
+      "word":"janky",
+      "type":"adjective"
+   },
+   {
+      "word":"JAP",
+      "type":"noun"
+   },
+   {
+      "word":"japers",
+      "type":"noun"
+   },
+   {
+      "word":"jeal",
+      "type":"adjective"
+   },
+   {
+      "word":"jelly",
+      "type":"adjective"
+   },
+   {
+      "word":"Jesus",
+      "type":"adjective"
+   },
+   {
+      "word":"Jesus chicken",
+      "type":"noun phrase"
+   },
+   {
+      "word":"jet",
+      "type":"verb"
+   },
+   {
+      "word":"jewfro",
+      "type":"noun"
+   },
+   {
+      "word":"jill off",
+      "type":"verb"
+   },
+   {
+      "word":"jimmy hat",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Jit, the",
+      "type":"noun"
+   },
+   {
+      "word":"jizz",
+      "type":"verb"
+   },
+   {
+      "word":"jizzalicious",
+      "type":"adjective"
+   },
+   {
+      "word":"j/k",
+      "type":"abbreviation"
+   },
+   {
+      "word":"joe",
+      "type":"noun"
+   },
+   {
+      "word":"jonesing",
+      "type":"verb"
+   },
+   {
+      "word":"Jordanesque",
+      "type":"adjective"
+   },
+   {
+      "word":"jorts",
+      "type":"noun"
+   },
+   {
+      "word":"joshing",
+      "type":"verb"
+   },
+   {
+      "word":"jugs",
+      "type":"noun"
+   },
+   {
+      "word":"juiced",
+      "type":"adjective"
+   },
+   {
+      "word":"juice/juicing",
+      "type":"noun/verb"
+   },
+   {
+      "word":"juke",
+      "type":"verb"
+   },
+   {
+      "word":"jumblef**k",
+      "type":"noun"
+   },
+   {
+      "word":"jump the gun",
+      "type":"verb phrase"
+   },
+   {
+      "word":"jungling",
+      "type":"verb"
+   },
+   {
+      "word":"junk",
+      "type":"noun"
+   },
+   {
+      "word":"junkie",
+      "type":"noun"
+   },
+   {
+      "word":"junk in the trunk",
+      "type":"noun phrase"
+   },
+   {
+      "word":"juvie",
+      "type":"noun"
+   },
+   {
+      "word":"JV",
+      "type":"adjective"
+   },
+   {
+      "word":"kankle",
+      "type":"noun"
+   },
+   {
+      "word":"keef",
+      "type":"noun"
+   },
+   {
+      "word":"keep it real",
+      "type":"verb phrase"
+   },
+   {
+      "word":"kegger",
+      "type":"noun"
+   },
+   {
+      "word":"keg stand",
+      "type":"noun phrase"
+   },
+   {
+      "word":"kickin' it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"kicks",
+      "type":"noun"
+   },
+   {
+      "word":"kid",
+      "type":"noun"
+   },
+   {
+      "word":"killer",
+      "type":"adjective"
+   },
+   {
+      "word":"killing it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"kill yourself",
+      "type":"interjection"
+   },
+   {
+      "word":"kind bud",
+      "type":"noun phrase"
+   },
+   {
+      "word":"knocked up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"knock it off",
+      "type":"verb phrase"
+   },
+   {
+      "word":"know what's up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"Kobe",
+      "type":"interjection"
+   },
+   {
+      "word":"kosher",
+      "type":"adjective"
+   },
+   {
+      "word":"KOTD",
+      "type":"noun phrase"
+   },
+   {
+      "word":"L",
+      "type":"noun"
+   },
+   {
+      "word":"labbies",
+      "type":"noun"
+   },
+   {
+      "word":"ladies",
+      "type":"noun"
+   },
+   {
+      "word":"lady",
+      "type":"noun"
+   },
+   {
+      "word":"ladybabies",
+      "type":"idiom"
+   },
+   {
+      "word":"lame",
+      "type":"adjective"
+   },
+   {
+      "word":"landscaping",
+      "type":"verb"
+   },
+   {
+      "word":"late night",
+      "type":"noun phrase"
+   },
+   {
+      "word":"late night",
+      "type":"verb phrase"
+   },
+   {
+      "word":"later",
+      "type":"interjection"
+   },
+   {
+      "word":"lay",
+      "type":"noun"
+   },
+   {
+      "word":"lay out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"lay the smack down",
+      "type":"verb phrase"
+   },
+   {
+      "word":"LBs",
+      "type":"noun"
+   },
+   {
+      "word":"learn through osmosis",
+      "type":"verb phrase"
+   },
+   {
+      "word":"LeCunt Hall",
+      "type":"noun phrase"
+   },
+   {
+      "word":"leet speak",
+      "type":"noun phrase"
+   },
+   {
+      "word":"leggo",
+      "type":"interjection"
+   },
+   {
+      "word":"legit",
+      "type":"adjective"
+   },
+   {
+      "word":"lesbihonest",
+      "type":"idiom"
+   },
+   {
+      "word":"lesbo",
+      "type":"noun"
+   },
+   {
+      "word":"let one rip",
+      "type":"verb phrase"
+   },
+   {
+      "word":"lezzie",
+      "type":"noun"
+   },
+   {
+      "word":"lid",
+      "type":"noun"
+   },
+   {
+      "word":"lift",
+      "type":"noun"
+   },
+   {
+      "word":"lightweight",
+      "type":"noun"
+   },
+   {
+      "word":"like",
+      "type":"quoting device"
+   },
+   {
+      "word":"like it's one's job",
+      "type":"idiom"
+   },
+   {
+      "word":"line",
+      "type":"noun"
+   },
+   {
+      "word":"lip",
+      "type":"noun"
+   },
+   {
+      "word":"lipdub",
+      "type":"noun"
+   },
+   {
+      "word":"lipstick lesbian",
+      "type":"noun phrase"
+   },
+   {
+      "word":"liquid",
+      "type":"noun"
+   },
+   {
+      "word":"liquid courage",
+      "type":"noun phrase"
+   },
+   {
+      "word":"liquor jacket",
+      "type":"noun phrase"
+   },
+   {
+      "word":"little",
+      "type":"noun"
+   },
+   {
+      "word":"lit up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"live it up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"lmao",
+      "type":"abbreviation"
+   },
+   {
+      "word":"loaded",
+      "type":"adjective"
+   },
+   {
+      "word":"locavore",
+      "type":"noun"
+   },
+   {
+      "word":"lockdown, on",
+      "type":"idiom"
+   },
+   {
+      "word":"lol",
+      "type":"acronym"
+   },
+   {
+      "word":"lollipop",
+      "type":"noun"
+   },
+   {
+      "word":"lolwut",
+      "type":"interjection"
+   },
+   {
+      "word":"loogie",
+      "type":"noun"
+   },
+   {
+      "word":"loopy",
+      "type":"adjective"
+   },
+   {
+      "word":"loosey",
+      "type":"noun"
+   },
+   {
+      "word":"loser",
+      "type":"noun"
+   },
+   {
+      "word":"loud",
+      "type":"adjective"
+   },
+   {
+      "word":"Lucy",
+      "type":"noun"
+   },
+   {
+      "word":"lush",
+      "type":"noun"
+   },
+   {
+      "word":"lushed",
+      "type":"adjective"
+   },
+   {
+      "word":"Maconga",
+      "type":"noun"
+   },
+   {
+      "word":"mad",
+      "type":"adjective"
+   },
+   {
+      "word":"mad",
+      "type":"adverb"
+   },
+   {
+      "word":"mad props",
+      "type":"noun phrase"
+   },
+   {
+      "word":"mahlz",
+      "type":"noun"
+   },
+   {
+      "word":"main",
+      "type":"noun"
+   },
+   {
+      "word":"make bank",
+      "type":"verb phrase"
+   },
+   {
+      "word":"make it rain",
+      "type":"verb phrase"
+   },
+   {
+      "word":"make it work",
+      "type":"verb phrase"
+   },
+   {
+      "word":"manboobs",
+      "type":"noun"
+   },
+   {
+      "word":"man cards",
+      "type":"noun phrase"
+   },
+   {
+      "word":"mangina",
+      "type":"noun"
+   },
+   {
+      "word":"manorexic",
+      "type":"adjective"
+   },
+   {
+      "word":"man pants",
+      "type":"noun phrase"
+   },
+   {
+      "word":"manscape",
+      "type":"verb"
+   },
+   {
+      "word":"man slut",
+      "type":"noun phrase"
+   },
+   {
+      "word":"mantrum",
+      "type":"noun"
+   },
+   {
+      "word":"man up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"man whore",
+      "type":"noun phrase"
+   },
+   {
+      "word":"manwich",
+      "type":"noun"
+   },
+   {
+      "word":"Marco",
+      "type":"interjection"
+   },
+   {
+      "word":"Mary Jane",
+      "type":"noun"
+   },
+   {
+      "word":"mash-up",
+      "type":"noun"
+   },
+   {
+      "word":"masturdate",
+      "type":"verb"
+   },
+   {
+      "word":"match up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"M.C.",
+      "type":"adjective"
+   },
+   {
+      "word":"mean mugging",
+      "type":"verb phrase"
+   },
+   {
+      "word":"meathead",
+      "type":"noun"
+   },
+   {
+      "word":"meepish",
+      "type":"adjective"
+   },
+   {
+      "word":"meh",
+      "type":"interjection"
+   },
+   {
+      "word":"meme",
+      "type":"noun"
+   },
+   {
+      "word":"mental",
+      "type":"noun"
+   },
+   {
+      "word":"mess",
+      "type":"verb"
+   },
+   {
+      "word":"messed up",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"mess up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"messy",
+      "type":"adjective"
+   },
+   {
+      "word":"meta",
+      "type":"adjective"
+   },
+   {
+      "word":"metro",
+      "type":"noun"
+   },
+   {
+      "word":"metrosexual",
+      "type":"noun"
+   },
+   {
+      "word":"Mexican shower",
+      "type":"noun"
+   },
+   {
+      "word":"M.F.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"M.I.A.",
+      "type":"adjective"
+   },
+   {
+      "word":"Mick",
+      "type":"noun"
+   },
+   {
+      "word":"Mickey D's",
+      "type":"noun"
+   },
+   {
+      "word":"mids",
+      "type":"noun"
+   },
+   {
+      "word":"milf",
+      "type":"noun"
+   },
+   {
+      "word":"Milly",
+      "type":"noun"
+   },
+   {
+      "word":"minute",
+      "type":"noun"
+   },
+   {
+      "word":"M.I.P.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"mistext",
+      "type":"noun"
+   },
+   {
+      "word":"mmm, (something)",
+      "type":"interjection"
+   },
+   {
+      "word":"moe",
+      "type":"noun"
+   },
+   {
+      "word":"mofo",
+      "type":"noun"
+   },
+   {
+      "word":"mojo",
+      "type":"noun"
+   },
+   {
+      "word":"molly",
+      "type":"noun"
+   },
+   {
+      "word":"Monday",
+      "type":"interjection"
+   },
+   {
+      "word":"Mondaze",
+      "type":"noun"
+   },
+   {
+      "word":"money",
+      "type":"adjective"
+   },
+   {
+      "word":"money",
+      "type":"interjection"
+   },
+   {
+      "word":"monthly visitor",
+      "type":"noun phrase"
+   },
+   {
+      "word":"moobs",
+      "type":"noun"
+   },
+   {
+      "word":"mooch",
+      "type":"adjective"
+   },
+   {
+      "word":"moocher",
+      "type":"noun"
+   },
+   {
+      "word":"moon rocks",
+      "type":"noun"
+   },
+   {
+      "word":"morning wood",
+      "type":"noun phrase"
+   },
+   {
+      "word":"mos def",
+      "type":"interjection"
+   },
+   {
+      "word":"mosh",
+      "type":"verb"
+   },
+   {
+      "word":"mosh pit",
+      "type":"noun phrase"
+   },
+   {
+      "word":"motherf**ker",
+      "type":"noun"
+   },
+   {
+      "word":"motorboat",
+      "type":"verb"
+   },
+   {
+      "word":"mouth breather",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Mrs.",
+      "type":"noun"
+   },
+   {
+      "word":"much love",
+      "type":"noun phrase"
+   },
+   {
+      "word":"muff",
+      "type":"noun"
+   },
+   {
+      "word":"muff",
+      "type":"noun"
+   },
+   {
+      "word":"muff diver",
+      "type":"noun phrase"
+   },
+   {
+      "word":"muffin top",
+      "type":"noun phrase"
+   },
+   {
+      "word":"mug",
+      "type":"noun"
+   },
+   {
+      "word":"muggin'",
+      "type":"verb"
+   },
+   {
+      "word":"mullet",
+      "type":"noun"
+   },
+   {
+      "word":"multiplay",
+      "type":"noun"
+   },
+   {
+      "word":"munchies",
+      "type":"noun"
+   },
+   {
+      "word":"'Murica",
+      "type":"noun"
+   },
+   {
+      "word":"mushies",
+      "type":"noun"
+   },
+   {
+      "word":"music",
+      "type":"noun"
+   },
+   {
+      "word":"my B",
+      "type":"interjection"
+   },
+   {
+      "word":"my bad",
+      "type":"interjection"
+   },
+   {
+      "word":"n00b",
+      "type":"noun"
+   },
+   {
+      "word":"NAGL",
+      "type":"acronym"
+   },
+   {
+      "word":"nail",
+      "type":"verb"
+   },
+   {
+      "word":"nappy",
+      "type":"adjective"
+   },
+   {
+      "word":"narc",
+      "type":"noun"
+   },
+   {
+      "word":"nasty",
+      "type":"adjective"
+   },
+   {
+      "word":"Natty Light",
+      "type":"noun"
+   },
+   {
+      "word":"nazi",
+      "type":"noun"
+   },
+   {
+      "word":"NBD",
+      "type":"abbreviation"
+   },
+   {
+      "word":"neighbros",
+      "type":"noun"
+   },
+   {
+      "word":"nerd",
+      "type":"noun"
+   },
+   {
+      "word":"newb",
+      "type":"noun"
+   },
+   {
+      "word":"newbie",
+      "type":"noun"
+   },
+   {
+      "word":"nightcap",
+      "type":"noun phrase"
+   },
+   {
+      "word":"nightlife",
+      "type":"noun"
+   },
+   {
+      "word":"nine floors of whores",
+      "type":"noun phrase"
+   },
+   {
+      "word":"nipply",
+      "type":"adjective"
+   },
+   {
+      "word":"nix",
+      "type":"verb"
+   },
+   {
+      "word":"no biggie",
+      "type":"noun phrase"
+   },
+   {
+      "word":"no doubt",
+      "type":"idiom"
+   },
+   {
+      "word":"no glove no love",
+      "type":"idiom"
+   },
+   {
+      "word":"no homo",
+      "type":"interjection"
+   },
+   {
+      "word":"noice",
+      "type":"adjective"
+   },
+   {
+      "word":"nom",
+      "type":"verb"
+   },
+   {
+      "word":"nommin",
+      "type":"verb"
+   },
+   {
+      "word":"noms",
+      "type":"noun"
+   },
+   {
+      "word":"nookie",
+      "type":"noun"
+   },
+   {
+      "word":"no prob",
+      "type":"idiom"
+   },
+   {
+      "word":"Northface",
+      "type":"noun"
+   },
+   {
+      "word":"norts",
+      "type":"noun"
+   },
+   {
+      "word":"no shave November",
+      "type":"idiom"
+   },
+   {
+      "word":"no shit, Sherlock",
+      "type":"idiom"
+   },
+   {
+      "word":"not so much",
+      "type":"idiom"
+   },
+   {
+      "word":"no worries",
+      "type":"interjection"
+   },
+   {
+      "word":"NRG",
+      "type":"noun"
+   },
+   {
+      "word":"nucking futs",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"nug",
+      "type":"noun"
+   },
+   {
+      "word":"nuke",
+      "type":"verb"
+   },
+   {
+      "word":"numbnuts",
+      "type":"noun"
+   },
+   {
+      "word":"nut",
+      "type":"verb"
+   },
+   {
+      "word":"nutcracker",
+      "type":"noun"
+   },
+   {
+      "word":"nuts",
+      "type":"adjective"
+   },
+   {
+      "word":"O",
+      "type":"noun"
+   },
+   {
+      "word":"OASIS",
+      "type":"noun"
+   },
+   {
+      "word":"obliterated",
+      "type":"adjective"
+   },
+   {
+      "word":"obv",
+      "type":"adverb"
+   },
+   {
+      "word":"obvi",
+      "type":"Adverb"
+   },
+   {
+      "word":"office party",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Off the chain",
+      "type":"adjective"
+   },
+   {
+      "word":"off the hook",
+      "type":"idiom"
+   },
+   {
+      "word":"off the market",
+      "type":"idiom"
+   },
+   {
+      "word":"oh da baby",
+      "type":"interjection"
+   },
+   {
+      "word":"O-Ho",
+      "type":"noun"
+   },
+   {
+      "word":"oinker",
+      "type":"noun"
+   },
+   {
+      "word":"old school",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"OMG",
+      "type":"acronym"
+   },
+   {
+      "word":"one-finger salute",
+      "type":"noun phrase"
+   },
+   {
+      "word":"one night stand",
+      "type":"noun phrase"
+   },
+   {
+      "word":"one upper",
+      "type":"noun phrase"
+   },
+   {
+      "word":"on point",
+      "type":"idiom"
+   },
+   {
+      "word":"on the DL",
+      "type":"idiom"
+   },
+   {
+      "word":"on the down low",
+      "type":"idiom"
+   },
+   {
+      "word":"on the grind",
+      "type":"idiom"
+   },
+   {
+      "word":"on the low",
+      "type":"idiom"
+   },
+   {
+      "word":"on the prowl",
+      "type":"idiom"
+   },
+   {
+      "word":"on the rag",
+      "type":"idiom"
+   },
+   {
+      "word":"on the regular",
+      "type":"idiom"
+   },
+   {
+      "word":"OOTD",
+      "type":"noun phrase"
+   },
+   {
+      "word":"open up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"OTP",
+      "type":"adjective"
+   },
+   {
+      "word":"out of the game",
+      "type":"idiom"
+   },
+   {
+      "word":"out the ass",
+      "type":"idiom"
+   },
+   {
+      "word":"out the wazoo",
+      "type":"idiom"
+   },
+   {
+      "word":"over",
+      "type":"adjective"
+   },
+   {
+      "word":"overachiever",
+      "type":"noun"
+   },
+   {
+      "word":"own",
+      "type":"verb"
+   },
+   {
+      "word":"owned",
+      "type":"interjection"
+   },
+   {
+      "word":"package",
+      "type":"noun"
+   },
+   {
+      "word":"pack fudge",
+      "type":"verb phrase"
+   },
+   {
+      "word":"packing",
+      "type":"verb"
+   },
+   {
+      "word":"pad",
+      "type":"noun"
+   },
+   {
+      "word":"pajama party",
+      "type":"noun phrase"
+   },
+   {
+      "word":"palmala",
+      "type":"noun"
+   },
+   {
+      "word":"pants",
+      "type":"verb"
+   },
+   {
+      "word":"party foul",
+      "type":"noun phrase"
+   },
+   {
+      "word":"party hoppin'",
+      "type":"verb phrase"
+   },
+   {
+      "word":"party juice",
+      "type":"noun phrase"
+   },
+   {
+      "word":"pass",
+      "type":"verb"
+   },
+   {
+      "word":"pass back",
+      "type":"verb phrase"
+   },
+   {
+      "word":"PDA",
+      "type":"noun"
+   },
+   {
+      "word":"peace out",
+      "type":"idiom"
+   },
+   {
+      "word":"peaking",
+      "type":"verb"
+   },
+   {
+      "word":"pebbled",
+      "type":"verb"
+   },
+   {
+      "word":"peep",
+      "type":"verb"
+   },
+   {
+      "word":"peeps",
+      "type":"noun"
+   },
+   {
+      "word":"pegging",
+      "type":"noun"
+   },
+   {
+      "word":"penis game",
+      "type":"noun"
+   },
+   {
+      "word":"perf",
+      "type":"adjective"
+   },
+   {
+      "word":"perv",
+      "type":"noun"
+   },
+   {
+      "word":"petered out",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"phantom buzz",
+      "type":"noun phrase"
+   },
+   {
+      "word":"photobomb",
+      "type":"noun"
+   },
+   {
+      "word":"photobomb",
+      "type":"verb"
+   },
+   {
+      "word":"photoshop",
+      "type":"verb"
+   },
+   {
+      "word":"pic",
+      "type":"abbreviation"
+   },
+   {
+      "word":"picture whore",
+      "type":"noun phrase"
+   },
+   {
+      "word":"piece of shit",
+      "type":"interjection"
+   },
+   {
+      "word":"pie hole",
+      "type":"noun phrase"
+   },
+   {
+      "word":"pig",
+      "type":"noun"
+   },
+   {
+      "word":"pillow biter",
+      "type":"noun phrase"
+   },
+   {
+      "word":"pill popper",
+      "type":"noun phrase"
+   },
+   {
+      "word":"pimp",
+      "type":"noun"
+   },
+   {
+      "word":"pimp",
+      "type":"adjective"
+   },
+   {
+      "word":"pimp",
+      "type":"verb"
+   },
+   {
+      "word":"pimped out",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"pimpin'",
+      "type":"adjective"
+   },
+   {
+      "word":"pink taco",
+      "type":"noun phrase"
+   },
+   {
+      "word":"pinning",
+      "type":"verb"
+   },
+   {
+      "word":"pissed",
+      "type":"adjective"
+   },
+   {
+      "word":"pissed off at",
+      "type":"verb phrase"
+   },
+   {
+      "word":"pissing contest",
+      "type":"noun phrase"
+   },
+   {
+      "word":"piss poor",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"pitch a tent",
+      "type":"verb phrase"
+   },
+   {
+      "word":"pizza",
+      "type":"adjective"
+   },
+   {
+      "word":"P.J.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"plastered",
+      "type":"adjective"
+   },
+   {
+      "word":"play",
+      "type":"verb"
+   },
+   {
+      "word":"player",
+      "type":"noun"
+   },
+   {
+      "word":"player hater",
+      "type":"noun phrase"
+   },
+   {
+      "word":"playing for the other team",
+      "type":"verb phrase"
+   },
+   {
+      "word":"playing the field",
+      "type":"verb phrase"
+   },
+   {
+      "word":"plow",
+      "type":"verb"
+   },
+   {
+      "word":"plugged in",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"pocket pool",
+      "type":"noun phrase"
+   },
+   {
+      "word":"PO'ed",
+      "type":"abbreviation"
+   },
+   {
+      "word":"poke war",
+      "type":"noun phrase"
+   },
+   {
+      "word":"ponging",
+      "type":"verb"
+   },
+   {
+      "word":"poon",
+      "type":"noun"
+   },
+   {
+      "word":"poontang",
+      "type":"noun"
+   },
+   {
+      "word":"pop",
+      "type":"verb"
+   },
+   {
+      "word":"pop a rubber band",
+      "type":"verb phrase"
+   },
+   {
+      "word":"pop a squat",
+      "type":"verb phrase"
+   },
+   {
+      "word":"pop it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"po po",
+      "type":"noun"
+   },
+   {
+      "word":"pork",
+      "type":"verb"
+   },
+   {
+      "word":"POS",
+      "type":"abbreviation"
+   },
+   {
+      "word":"POS",
+      "type":"noun"
+   },
+   {
+      "word":"P.O.S.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"poser",
+      "type":"noun"
+   },
+   {
+      "word":"postgame",
+      "type":"verb"
+   },
+   {
+      "word":"post up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"pot",
+      "type":"noun"
+   },
+   {
+      "word":"pothead",
+      "type":"noun"
+   },
+   {
+      "word":"powder",
+      "type":"noun"
+   },
+   {
+      "word":"praying to the porcelain god",
+      "type":"verb phrase"
+   },
+   {
+      "word":"preesh",
+      "type":"interjection"
+   },
+   {
+      "word":"pre-game",
+      "type":"verb"
+   },
+   {
+      "word":"preggers",
+      "type":"adjective"
+   },
+   {
+      "word":"presh",
+      "type":"adjective"
+   },
+   {
+      "word":"prick",
+      "type":"noun"
+   },
+   {
+      "word":"probs",
+      "type":"adverb"
+   },
+   {
+      "word":"procrasturbate",
+      "type":"verb"
+   },
+   {
+      "word":"prolly",
+      "type":"adverb"
+   },
+   {
+      "word":"props",
+      "type":"noun"
+   },
+   {
+      "word":"prostitot",
+      "type":"noun"
+   },
+   {
+      "word":"psych",
+      "type":"interjection"
+   },
+   {
+      "word":"psyched",
+      "type":"adjective"
+   },
+   {
+      "word":"P.T.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"P.T.F.O.",
+      "type":"adjective"
+   },
+   {
+      "word":"puff puff pass",
+      "type":"idiom"
+   },
+   {
+      "word":"puhlease",
+      "type":"interjection"
+   },
+   {
+      "word":"puke",
+      "type":"verb"
+   },
+   {
+      "word":"puke and rally",
+      "type":"verb phrase"
+   },
+   {
+      "word":"pull",
+      "type":"verb"
+   },
+   {
+      "word":"pull off",
+      "type":"verb phrase"
+   },
+   {
+      "word":"pumped",
+      "type":"adjective"
+   },
+   {
+      "word":"punk'd",
+      "type":"verb"
+   },
+   {
+      "word":"punk out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"purp",
+      "type":"noun"
+   },
+   {
+      "word":"purple drank",
+      "type":"noun phrase"
+   },
+   {
+      "word":"purple nurple",
+      "type":"noun phrase"
+   },
+   {
+      "word":"pussy",
+      "type":"noun"
+   },
+   {
+      "word":"pussy",
+      "type":"noun"
+   },
+   {
+      "word":"pussy galore",
+      "type":"noun phrase"
+   },
+   {
+      "word":"pussy whipped",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"put it to",
+      "type":"verb phrase"
+   },
+   {
+      "word":"put on",
+      "type":"verb phrase"
+   },
+   {
+      "word":"put on one's game face",
+      "type":"idiom"
+   },
+   {
+      "word":"put the smack down",
+      "type":"verb phrase"
+   },
+   {
+      "word":"put up a front",
+      "type":"verb phrase"
+   },
+   {
+      "word":"pwn",
+      "type":"verb"
+   },
+   {
+      "word":"QT",
+      "type":"abbreviation"
+   },
+   {
+      "word":"quality",
+      "type":"adjective"
+   },
+   {
+      "word":"quarter",
+      "type":"noun"
+   },
+   {
+      "word":"queen",
+      "type":"noun"
+   },
+   {
+      "word":"queer",
+      "type":"adjective"
+   },
+   {
+      "word":"rabbit food",
+      "type":"noun phrase"
+   },
+   {
+      "word":"rack",
+      "type":"noun"
+   },
+   {
+      "word":"rad",
+      "type":"adjective"
+   },
+   {
+      "word":"ragequit",
+      "type":"verb"
+   },
+   {
+      "word":"ragin'",
+      "type":"adjective"
+   },
+   {
+      "word":"rag on",
+      "type":"verb phrase"
+   },
+   {
+      "word":"rail",
+      "type":"verb"
+   },
+   {
+      "word":"ralph",
+      "type":"verb"
+   },
+   {
+      "word":"rando",
+      "type":"noun"
+   },
+   {
+      "word":"random",
+      "type":"adjective"
+   },
+   {
+      "word":"random",
+      "type":"noun"
+   },
+   {
+      "word":"rank",
+      "type":"adjective"
+   },
+   {
+      "word":"raped",
+      "type":"verb"
+   },
+   {
+      "word":"rape (someone's) wall",
+      "type":"verb phrase"
+   },
+   {
+      "word":"rat",
+      "type":"noun"
+   },
+   {
+      "word":"ratchet",
+      "type":"adjective"
+   },
+   {
+      "word":"rat on",
+      "type":"verb phrase"
+   },
+   {
+      "word":"raunchy",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"rave",
+      "type":"noun"
+   },
+   {
+      "word":"raw dog",
+      "type":"verb"
+   },
+   {
+      "word":"rebooty",
+      "type":"noun"
+   },
+   {
+      "word":"recognize",
+      "type":"verb"
+   },
+   {
+      "word":"Red & Black",
+      "type":"noun"
+   },
+   {
+      "word":"redneck",
+      "type":"noun"
+   },
+   {
+      "word":"Redneck Riviera",
+      "type":"noun"
+   },
+   {
+      "word":"redonkulous",
+      "type":"adjective"
+   },
+   {
+      "word":"red ring of death",
+      "type":"noun phrase"
+   },
+   {
+      "word":"reefer",
+      "type":"noun"
+   },
+   {
+      "word":"reek",
+      "type":"verb"
+   },
+   {
+      "word":"reel (someone) in",
+      "type":"verb phrase"
+   },
+   {
+      "word":"rent a cop",
+      "type":"noun"
+   },
+   {
+      "word":"represent",
+      "type":"verb"
+   },
+   {
+      "word":"respawn",
+      "type":"verb"
+   },
+   {
+      "word":"retarded",
+      "type":"null"
+   },
+   {
+      "word":"retro",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"re-up",
+      "type":"verb"
+   },
+   {
+      "word":"rickrolled",
+      "type":"verb phrase"
+   },
+   {
+      "word":"ricockulous",
+      "type":"adjective"
+   },
+   {
+      "word":"ride",
+      "type":"noun"
+   },
+   {
+      "word":"ride out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"ridic",
+      "type":"adjective"
+   },
+   {
+      "word":"riding bitch",
+      "type":"verb"
+   },
+   {
+      "word":"right on",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"right quick",
+      "type":"adverb"
+   },
+   {
+      "word":"'rillo",
+      "type":"noun"
+   },
+   {
+      "word":"rip",
+      "type":"verb"
+   },
+   {
+      "word":"rip a new one",
+      "type":"verb phrase"
+   },
+   {
+      "word":"ripped",
+      "type":"adjective"
+   },
+   {
+      "word":"roach",
+      "type":"noun"
+   },
+   {
+      "word":"road head",
+      "type":"noun"
+   },
+   {
+      "word":"road trip",
+      "type":"verb"
+   },
+   {
+      "word":"road trip",
+      "type":"noun"
+   },
+   {
+      "word":"roamin'",
+      "type":"verb"
+   },
+   {
+      "word":"rock",
+      "type":"verb"
+   },
+   {
+      "word":"rocks",
+      "type":"noun"
+   },
+   {
+      "word":"roll",
+      "type":"verb"
+   },
+   {
+      "word":"roll around in the hay",
+      "type":"verb phrase"
+   },
+   {
+      "word":"rollin' deep",
+      "type":"verb phrase"
+   },
+   {
+      "word":"Rosa Parked",
+      "type":"verb"
+   },
+   {
+      "word":"Rosie Palm",
+      "type":"noun"
+   },
+   {
+      "word":"rough",
+      "type":"adjective"
+   },
+   {
+      "word":"R.T.S.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"rubber",
+      "type":"noun"
+   },
+   {
+      "word":"rub one out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"rugger hugger",
+      "type":"noun"
+   },
+   {
+      "word":"Rule 34",
+      "type":"noun phrase"
+   },
+   {
+      "word":"run a train",
+      "type":"verb phrase"
+   },
+   {
+      "word":"run game",
+      "type":"verb phrase"
+   },
+   {
+      "word":"runs, the",
+      "type":"noun"
+   },
+   {
+      "word":"sack",
+      "type":"noun"
+   },
+   {
+      "word":"sadface",
+      "type":"noun"
+   },
+   {
+      "word":"sake bomb",
+      "type":"verb"
+   },
+   {
+      "word":"salty",
+      "type":"adjective"
+   },
+   {
+      "word":"Sandcastle",
+      "type":"noun"
+   },
+   {
+      "word":"sauce",
+      "type":"noun"
+   },
+   {
+      "word":"saucy",
+      "type":"adjective"
+   },
+   {
+      "word":"sausage fest",
+      "type":"noun phrase"
+   },
+   {
+      "word":"scenester",
+      "type":"noun"
+   },
+   {
+      "word":"schleep",
+      "type":"verb"
+   },
+   {
+      "word":"schlick",
+      "type":"verb"
+   },
+   {
+      "word":"schlong",
+      "type":"noun"
+   },
+   {
+      "word":"schmammered",
+      "type":"adjective"
+   },
+   {
+      "word":"school",
+      "type":"verb"
+   },
+   {
+      "word":"schwasted",
+      "type":"adjective"
+   },
+   {
+      "word":"scooby snacks",
+      "type":"noun"
+   },
+   {
+      "word":"scoot",
+      "type":"verb"
+   },
+   {
+      "word":"scope",
+      "type":"verb"
+   },
+   {
+      "word":"scope out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"scope this out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"score",
+      "type":"verb"
+   },
+   {
+      "word":"score",
+      "type":"interjection"
+   },
+   {
+      "word":"scratcher",
+      "type":"noun"
+   },
+   {
+      "word":"screwed",
+      "type":"adjective"
+   },
+   {
+      "word":"screwed up",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"screw up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"seals the deal",
+      "type":"verb phrase"
+   },
+   {
+      "word":"seat back",
+      "type":"interjection"
+   },
+   {
+      "word":"selfie",
+      "type":"noun"
+   },
+   {
+      "word":"semi",
+      "type":"noun"
+   },
+   {
+      "word":"senioritis",
+      "type":"noun"
+   },
+   {
+      "word":"serial",
+      "type":"adjective"
+   },
+   {
+      "word":"sewious",
+      "type":"adjective"
+   },
+   {
+      "word":"sexile",
+      "type":"verb"
+   },
+   {
+      "word":"sexting",
+      "type":"verb"
+   },
+   {
+      "word":"shack",
+      "type":"verb"
+   },
+   {
+      "word":"shacker",
+      "type":"noun"
+   },
+   {
+      "word":"shack up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"shades",
+      "type":"noun"
+   },
+   {
+      "word":"shady",
+      "type":"adverb"
+   },
+   {
+      "word":"shady",
+      "type":"adjective"
+   },
+   {
+      "word":"shafted",
+      "type":"verb"
+   },
+   {
+      "word":"shank",
+      "type":"verb"
+   },
+   {
+      "word":"shank",
+      "type":"noun"
+   },
+   {
+      "word":"sharp",
+      "type":"adjective"
+   },
+   {
+      "word":"shart",
+      "type":"verb"
+   },
+   {
+      "word":"shawty",
+      "type":"noun"
+   },
+   {
+      "word":"shenanigans",
+      "type":"adjective"
+   },
+   {
+      "word":"shenanigans",
+      "type":"interjection"
+   },
+   {
+      "word":"shindig",
+      "type":"noun"
+   },
+   {
+      "word":"ship",
+      "type":"noun"
+   },
+   {
+      "word":"ship",
+      "type":"verb"
+   },
+   {
+      "word":"shit a brick",
+      "type":"verb phrase"
+   },
+   {
+      "word":"shit bricks",
+      "type":"verb phrase"
+   },
+   {
+      "word":"shitfaced",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"shits and giggles",
+      "type":"noun phrase"
+   },
+   {
+      "word":"shitshow",
+      "type":"noun"
+   },
+   {
+      "word":"shitstorm",
+      "type":"noun"
+   },
+   {
+      "word":"shit, the",
+      "type":"noun"
+   },
+   {
+      "word":"shitty",
+      "type":"adjective"
+   },
+   {
+      "word":"shiz, the",
+      "type":"noun"
+   },
+   {
+      "word":"shoot",
+      "type":"interjection"
+   },
+   {
+      "word":"shoot",
+      "type":"verb"
+   },
+   {
+      "word":"short",
+      "type":"verb"
+   },
+   {
+      "word":"shorty",
+      "type":"noun"
+   },
+   {
+      "word":"shot",
+      "type":"adjective"
+   },
+   {
+      "word":"shot down",
+      "type":"verb phrase"
+   },
+   {
+      "word":"shotgun",
+      "type":"noun"
+   },
+   {
+      "word":"shotgun",
+      "type":"adverb"
+   },
+   {
+      "word":"shotgun",
+      "type":"verb"
+   },
+   {
+      "word":"shotgun",
+      "type":"verb"
+   },
+   {
+      "word":"shot o'clock",
+      "type":"interjection"
+   },
+   {
+      "word":"shout out",
+      "type":"noun"
+   },
+   {
+      "word":"show",
+      "type":"noun"
+   },
+   {
+      "word":"shows out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"shred",
+      "type":"verb"
+   },
+   {
+      "word":"shroom",
+      "type":"noun"
+   },
+   {
+      "word":"shut (someone's) mouth",
+      "type":"verb phrase"
+   },
+   {
+      "word":"shut up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"shut up and take my money",
+      "type":"interjection"
+   },
+   {
+      "word":"shut your mouth",
+      "type":"interjection"
+   },
+   {
+      "word":"sick",
+      "type":"adjective"
+   },
+   {
+      "word":"sicknasty",
+      "type":"adjective"
+   },
+   {
+      "word":"simmer down now",
+      "type":"verb phrase"
+   },
+   {
+      "word":"single",
+      "type":"noun"
+   },
+   {
+      "word":"sister",
+      "type":"noun"
+   },
+   {
+      "word":"skank",
+      "type":"noun"
+   },
+   {
+      "word":"skankopotamus",
+      "type":"noun"
+   },
+   {
+      "word":"skanky",
+      "type":"adjective"
+   },
+   {
+      "word":"skeezeball",
+      "type":"noun"
+   },
+   {
+      "word":"skeezy",
+      "type":"adjective"
+   },
+   {
+      "word":"sketch",
+      "type":"noun"
+   },
+   {
+      "word":"sketchball",
+      "type":"noun"
+   },
+   {
+      "word":"sketchy",
+      "type":"adjective"
+   },
+   {
+      "word":"skid marks",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Skrilla",
+      "type":"noun"
+   },
+   {
+      "word":"skunk",
+      "type":"noun"
+   },
+   {
+      "word":"skype",
+      "type":"verb"
+   },
+   {
+      "word":"slammed",
+      "type":"adjective"
+   },
+   {
+      "word":"slangin'",
+      "type":"verb"
+   },
+   {
+      "word":"slay",
+      "type":"verb"
+   },
+   {
+      "word":"S.L.C.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"sleaze",
+      "type":"noun"
+   },
+   {
+      "word":"sleeve",
+      "type":"noun"
+   },
+   {
+      "word":"Slic Fity",
+      "type":"noun"
+   },
+   {
+      "word":"slick",
+      "type":"adjective"
+   },
+   {
+      "word":"slick",
+      "type":"adverb"
+   },
+   {
+      "word":"slim pickins",
+      "type":"noun phrase"
+   },
+   {
+      "word":"slipping",
+      "type":"verb"
+   },
+   {
+      "word":"slizzard",
+      "type":"adjective"
+   },
+   {
+      "word":"sloot",
+      "type":"noun"
+   },
+   {
+      "word":"sloppy",
+      "type":"adjective"
+   },
+   {
+      "word":"slore",
+      "type":"noun"
+   },
+   {
+      "word":"sloshed",
+      "type":"adjective"
+   },
+   {
+      "word":"slut",
+      "type":"noun"
+   },
+   {
+      "word":"slutty",
+      "type":"adjective"
+   },
+   {
+      "word":"small brain",
+      "type":"noun phrase"
+   },
+   {
+      "word":"smartphone dead leg",
+      "type":"noun phrase"
+   },
+   {
+      "word":"smashed",
+      "type":"adjective"
+   },
+   {
+      "word":"smdh",
+      "type":"acronym"
+   },
+   {
+      "word":"smell bacon",
+      "type":"verb phrase"
+   },
+   {
+      "word":"smh",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"smoke (someone) out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"smoke up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"smokin'",
+      "type":"adjective"
+   },
+   {
+      "word":"smooth",
+      "type":"adjective"
+   },
+   {
+      "word":"smush",
+      "type":"verb"
+   },
+   {
+      "word":"snap",
+      "type":"interjection"
+   },
+   {
+      "word":"snap",
+      "type":"noun"
+   },
+   {
+      "word":"snaps",
+      "type":"noun"
+   },
+   {
+      "word":"snarky",
+      "type":"adjective"
+   },
+   {
+      "word":"snell",
+      "type":"verb"
+   },
+   {
+      "word":"snellebrate",
+      "type":"verb"
+   },
+   {
+      "word":"snipe",
+      "type":"verb"
+   },
+   {
+      "word":"so",
+      "type":"adverb"
+   },
+   {
+      "word":"social",
+      "type":"noun"
+   },
+   {
+      "word":"SoCo",
+      "type":"noun"
+   },
+   {
+      "word":"soho",
+      "type":"noun"
+   },
+   {
+      "word":"soild",
+      "type":"noun"
+   },
+   {
+      "word":"SOL",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"solid",
+      "type":"adjective"
+   },
+   {
+      "word":"[something] fiend",
+      "type":"noun"
+   },
+   {
+      "word":"son",
+      "type":"noun"
+   },
+   {
+      "word":"son of a bitch",
+      "type":"noun"
+   },
+   {
+      "word":"sorostiboots",
+      "type":"noun"
+   },
+   {
+      "word":"sorostitot",
+      "type":"noun"
+   },
+   {
+      "word":"sorostitute",
+      "type":"noun"
+   },
+   {
+      "word":"soul patch",
+      "type":"noun phrase"
+   },
+   {
+      "word":"space cadet",
+      "type":"noun phrase"
+   },
+   {
+      "word":"space out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"spacy",
+      "type":"adjective"
+   },
+   {
+      "word":"spanking the monkey",
+      "type":"verb phrase"
+   },
+   {
+      "word":"spanks it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"spark it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"Sparky",
+      "type":"noun"
+   },
+   {
+      "word":"spaz",
+      "type":"noun"
+   },
+   {
+      "word":"special brownies",
+      "type":"noun phrase"
+   },
+   {
+      "word":"special friend",
+      "type":"noun phrase"
+   },
+   {
+      "word":"spendy",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"spent",
+      "type":"adjective"
+   },
+   {
+      "word":"spin",
+      "type":"verb"
+   },
+   {
+      "word":"spit game",
+      "type":"verb phrase"
+   },
+   {
+      "word":"splif",
+      "type":"noun"
+   },
+   {
+      "word":"spliff",
+      "type":"noun"
+   },
+   {
+      "word":"split",
+      "type":"verb"
+   },
+   {
+      "word":"sploof",
+      "type":"noun"
+   },
+   {
+      "word":"splooges",
+      "type":"verb"
+   },
+   {
+      "word":"sploosh",
+      "type":"verb"
+   },
+   {
+      "word":"spoon",
+      "type":"verb"
+   },
+   {
+      "word":"sprung",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"squee",
+      "type":"interjection"
+   },
+   {
+      "word":"srsbsns",
+      "type":"adjective"
+   },
+   {
+      "word":"srsly",
+      "type":"adverb"
+   },
+   {
+      "word":"stacked",
+      "type":"adjective"
+   },
+   {
+      "word":"stacks on deck",
+      "type":"noun phrase"
+   },
+   {
+      "word":"stage five clinger",
+      "type":"noun phrase"
+   },
+   {
+      "word":"Stairway to Nowhere",
+      "type":"noun"
+   },
+   {
+      "word":"standing on his head",
+      "type":"verb phrase"
+   },
+   {
+      "word":"stank",
+      "type":"noun"
+   },
+   {
+      "word":"step",
+      "type":"verb"
+   },
+   {
+      "word":"step up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"STFU",
+      "type":"interjection"
+   },
+   {
+      "word":"sticks, the",
+      "type":"noun phrase"
+   },
+   {
+      "word":"stiff",
+      "type":"verb"
+   },
+   {
+      "word":"stiffy",
+      "type":"noun"
+   },
+   {
+      "word":"stink eye",
+      "type":"noun"
+   },
+   {
+      "word":"stogie",
+      "type":"noun"
+   },
+   {
+      "word":"stoked",
+      "type":"adjective"
+   },
+   {
+      "word":"stoned",
+      "type":"adjective"
+   },
+   {
+      "word":"stoner",
+      "type":"noun"
+   },
+   {
+      "word":"straight",
+      "type":"adjective"
+   },
+   {
+      "word":"straight",
+      "type":"adverb"
+   },
+   {
+      "word":"straight",
+      "type":"adjective"
+   },
+   {
+      "word":"straight up",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"strange",
+      "type":"noun"
+   },
+   {
+      "word":"strapped",
+      "type":"adjective"
+   },
+   {
+      "word":"stressin'",
+      "type":"verb"
+   },
+   {
+      "word":"strides of pride",
+      "type":"noun phrase"
+   },
+   {
+      "word":"string music",
+      "type":"noun"
+   },
+   {
+      "word":"stripper ones",
+      "type":"noun phrase"
+   },
+   {
+      "word":"struggle bus",
+      "type":"noun"
+   },
+   {
+      "word":"strugglin'",
+      "type":"verb"
+   },
+   {
+      "word":"struggz",
+      "type":"adjective"
+   },
+   {
+      "word":"stuntin'",
+      "type":"verb"
+   },
+   {
+      "word":"suck",
+      "type":"verb"
+   },
+   {
+      "word":"suck it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"sucks ass",
+      "type":"verb phrase"
+   },
+   {
+      "word":"sumbitch",
+      "type":"noun"
+   },
+   {
+      "word":"Sunday Funday",
+      "type":"noun"
+   },
+   {
+      "word":"Sunday morning",
+      "type":"noun phrase"
+   },
+   {
+      "word":"'Sup?",
+      "type":"interjection"
+   },
+   {
+      "word":"surfing the crimson wave",
+      "type":"verb phrase"
+   },
+   {
+      "word":"suxors",
+      "type":"verb"
+   },
+   {
+      "word":"swag",
+      "type":"noun"
+   },
+   {
+      "word":"swagger",
+      "type":"noun"
+   },
+   {
+      "word":"swagger jacker",
+      "type":"noun phrase"
+   },
+   {
+      "word":"swagging",
+      "type":"adjective"
+   },
+   {
+      "word":"swamp ass",
+      "type":"noun phrase"
+   },
+   {
+      "word":"swamp donkey",
+      "type":"noun"
+   },
+   {
+      "word":"swanky",
+      "type":"adjective"
+   },
+   {
+      "word":"sweat",
+      "type":"verb"
+   },
+   {
+      "word":"sweet",
+      "type":"adjective"
+   },
+   {
+      "word":"sweet",
+      "type":"noun"
+   },
+   {
+      "word":"sweet",
+      "type":"interjection"
+   },
+   {
+      "word":"swerve",
+      "type":"verb"
+   },
+   {
+      "word":"swish",
+      "type":"noun"
+   },
+   {
+      "word":"swole",
+      "type":"adjective"
+   },
+   {
+      "word":"swoosh",
+      "type":"noun"
+   },
+   {
+      "word":"t & a",
+      "type":"noun"
+   },
+   {
+      "word":"Taco Hell",
+      "type":"noun"
+   },
+   {
+      "word":"tag",
+      "type":"verb"
+   },
+   {
+      "word":"tailgate",
+      "type":"verb"
+   },
+   {
+      "word":"take it to the house",
+      "type":"verb phrase"
+   },
+   {
+      "word":"talk",
+      "type":"verb"
+   },
+   {
+      "word":"talk shit",
+      "type":"verb phrase"
+   },
+   {
+      "word":"talk smack",
+      "type":"verb phrase"
+   },
+   {
+      "word":"tanked",
+      "type":"adjective"
+   },
+   {
+      "word":"tap",
+      "type":"verb"
+   },
+   {
+      "word":"tapped",
+      "type":"adjective"
+   },
+   {
+      "word":"tap that ass",
+      "type":"verb phrase"
+   },
+   {
+      "word":"tard",
+      "type":"noun"
+   },
+   {
+      "word":"-tard",
+      "type":"suffix"
+   },
+   {
+      "word":"tatted up",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"T-Bell",
+      "type":"noun"
+   },
+   {
+      "word":"t-boned",
+      "type":"verb"
+   },
+   {
+      "word":"teabag",
+      "type":"verb"
+   },
+   {
+      "word":"tear up (someone's) ass",
+      "type":"verb phrase"
+   },
+   {
+      "word":"Techie",
+      "type":"noun"
+   },
+   {
+      "word":"ten",
+      "type":"noun"
+   },
+   {
+      "word":"tent city",
+      "type":"noun"
+   },
+   {
+      "word":"textbombed",
+      "type":"verb"
+   },
+   {
+      "word":"that guy",
+      "type":"noun phrase"
+   },
+   {
+      "word":"that's clutch",
+      "type":"idiom"
+   },
+   {
+      "word":"that's how I roll",
+      "type":"idiom"
+   },
+   {
+      "word":"that's what she said",
+      "type":"interjection"
+   },
+   {
+      "word":"that's what's up",
+      "type":"interjection"
+   },
+   {
+      "word":"that time of the month",
+      "type":"noun phrase"
+   },
+   {
+      "word":"thick",
+      "type":"adjective"
+   },
+   {
+      "word":"thirsty",
+      "type":"adjective"
+   },
+   {
+      "word":"thread the needle",
+      "type":"verb phrase"
+   },
+   {
+      "word":"throw down",
+      "type":"noun phrase"
+   },
+   {
+      "word":"throw down",
+      "type":"verb phrase"
+   },
+   {
+      "word":"throwing shade",
+      "type":"verb phrase"
+   },
+   {
+      "word":"thug",
+      "type":"noun"
+   },
+   {
+      "word":"thurr",
+      "type":"adverb"
+   },
+   {
+      "word":"tight",
+      "type":"adjective"
+   },
+   {
+      "word":"tighty whities",
+      "type":"noun phrase"
+   },
+   {
+      "word":"tig ol' bitties",
+      "type":"noun phrase"
+   },
+   {
+      "word":"tits",
+      "type":"interjection"
+   },
+   {
+      "word":"titty f**k",
+      "type":"verb phrase"
+   },
+   {
+      "word":"TLC",
+      "type":"abbreviation"
+   },
+   {
+      "word":"T.M.I.",
+      "type":"abbreviation"
+   },
+   {
+      "word":"toasted",
+      "type":"adjective"
+   },
+   {
+      "word":"toe up",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"toke",
+      "type":"verb"
+   },
+   {
+      "word":"token",
+      "type":"adjective"
+   },
+   {
+      "word":"tool",
+      "type":"noun"
+   },
+   {
+      "word":"top",
+      "type":"noun"
+   },
+   {
+      "word":"top shelf",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"torch",
+      "type":"verb"
+   },
+   {
+      "word":"torn up",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"torrent",
+      "type":"noun"
+   },
+   {
+      "word":"total",
+      "type":"adjective"
+   },
+   {
+      "word":"totally",
+      "type":"adverb"
+   },
+   {
+      "word":"totes",
+      "type":"adverb"
+   },
+   {
+      "word":"totes magotes",
+      "type":"adverb"
+   },
+   {
+      "word":"tough cookie",
+      "type":"noun phrase"
+   },
+   {
+      "word":"tough shit",
+      "type":"interjection"
+   },
+   {
+      "word":"town bicycle, the",
+      "type":"noun phrase"
+   },
+   {
+      "word":"townie",
+      "type":"noun"
+   },
+   {
+      "word":"TP",
+      "type":"verb"
+   },
+   {
+      "word":"tramp stamp",
+      "type":"noun phrase"
+   },
+   {
+      "word":"trannie",
+      "type":"noun"
+   },
+   {
+      "word":"trap",
+      "type":"noun"
+   },
+   {
+      "word":"trap",
+      "type":"verb"
+   },
+   {
+      "word":"trap",
+      "type":"noun"
+   },
+   {
+      "word":"trap house",
+      "type":"noun"
+   },
+   {
+      "word":"trashed",
+      "type":"adjective"
+   },
+   {
+      "word":"tree hugger",
+      "type":"noun phrase"
+   },
+   {
+      "word":"trees",
+      "type":"noun"
+   },
+   {
+      "word":"trick",
+      "type":"noun"
+   },
+   {
+      "word":"triflin'",
+      "type":"adjective"
+   },
+   {
+      "word":"trip",
+      "type":"verb"
+   },
+   {
+      "word":"trip out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"troll",
+      "type":"noun"
+   },
+   {
+      "word":"trolling",
+      "type":"verb"
+   },
+   {
+      "word":"true dat",
+      "type":"interjection"
+   },
+   {
+      "word":"trust punk",
+      "type":"noun"
+   },
+   {
+      "word":"turn down for what",
+      "type":"verb phrase"
+   },
+   {
+      "word":"turnip",
+      "type":"noun"
+   },
+   {
+      "word":"turnt",
+      "type":"adjective"
+   },
+   {
+      "word":"turn up",
+      "type":"verb phrase"
+   },
+   {
+      "word":"twat",
+      "type":"noun"
+   },
+   {
+      "word":"twat block",
+      "type":"verb"
+   },
+   {
+      "word":"twat swat",
+      "type":"verb phrase"
+   },
+   {
+      "word":"tweak",
+      "type":"verb"
+   },
+   {
+      "word":"tweeked out",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"twenty-four-seven",
+      "type":"adverb"
+   },
+   {
+      "word":"twerk it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"twig and berries",
+      "type":"noun phrase"
+   },
+   {
+      "word":"twig and berries",
+      "type":"noun phrase"
+   },
+   {
+      "word":"twirk it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"twisted",
+      "type":"adjective"
+   },
+   {
+      "word":"uber",
+      "type":"adjective"
+   },
+   {
+      "word":"Uga",
+      "type":"noun"
+   },
+   {
+      "word":"U mad bro",
+      "type":"interjection"
+   },
+   {
+      "word":"unfriend",
+      "type":"verb"
+   },
+   {
+      "word":"uniboob",
+      "type":"noun"
+   },
+   {
+      "word":"unibrow",
+      "type":"noun"
+   },
+   {
+      "word":"up shit creek without a paddle",
+      "type":"idiom"
+   },
+   {
+      "word":"up (someone's) ass",
+      "type":"idiom"
+   },
+   {
+      "word":"up (someone's) butt",
+      "type":"adjective"
+   },
+   {
+      "word":"vag",
+      "type":"abbreviation"
+   },
+   {
+      "word":"va-jay-jay",
+      "type":"noun"
+   },
+   {
+      "word":"veg out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"vial",
+      "type":"noun"
+   },
+   {
+      "word":"Vine, do it for the Vine",
+      "type":"expression"
+   },
+   {
+      "word":"Virgin Vault",
+      "type":"noun"
+   },
+   {
+      "word":"vom",
+      "type":"verb"
+   },
+   {
+      "word":"VPL",
+      "type":"abbreviation"
+   },
+   {
+      "word":"WaHo",
+      "type":"noun"
+   },
+   {
+      "word":"wail",
+      "type":"verb"
+   },
+   {
+      "word":"wake-and-bake",
+      "type":"verb"
+   },
+   {
+      "word":"walk",
+      "type":"verb"
+   },
+   {
+      "word":"walked down",
+      "type":"verb phrase"
+   },
+   {
+      "word":"walking std",
+      "type":"noun phrase"
+   },
+   {
+      "word":"walk of shame",
+      "type":"null"
+   },
+   {
+      "word":"Wally World",
+      "type":"noun"
+   },
+   {
+      "word":"wang",
+      "type":"noun"
+   },
+   {
+      "word":"want somebody's nuts",
+      "type":"idiom"
+   },
+   {
+      "word":"wasted",
+      "type":"adjective"
+   },
+   {
+      "word":"wat",
+      "type":"interjection"
+   },
+   {
+      "word":"wat do",
+      "type":"interjection"
+   },
+   {
+      "word":"waxed",
+      "type":"verb"
+   },
+   {
+      "word":"way",
+      "type":"adverb"
+   },
+   {
+      "word":"WCW",
+      "type":"noun phrase"
+   },
+   {
+      "word":"wears the pants",
+      "type":"verb phrase"
+   },
+   {
+      "word":"wedgie",
+      "type":"noun"
+   },
+   {
+      "word":"werd",
+      "type":"interjection"
+   },
+   {
+      "word":"whack",
+      "type":"adjective"
+   },
+   {
+      "word":"whack off",
+      "type":"verb phrase"
+   },
+   {
+      "word":"whatev",
+      "type":"interjection"
+   },
+   {
+      "word":"whatever",
+      "type":"interjection"
+   },
+   {
+      "word":"what in the actual f**k",
+      "type":"interjection"
+   },
+   {
+      "word":"what is this I don\u2019t even",
+      "type":"interjection"
+   },
+   {
+      "word":"what's cracking",
+      "type":"idiom"
+   },
+   {
+      "word":"what's good",
+      "type":"idiom"
+   },
+   {
+      "word":"what's Gucci",
+      "type":"idiom"
+   },
+   {
+      "word":"what the deuce",
+      "type":"interjection"
+   },
+   {
+      "word":"what up",
+      "type":"idiom"
+   },
+   {
+      "word":"wheels",
+      "type":"noun"
+   },
+   {
+      "word":"whiff",
+      "type":"verb"
+   },
+   {
+      "word":"whipped",
+      "type":"adjective"
+   },
+   {
+      "word":"whippits",
+      "type":"noun"
+   },
+   {
+      "word":"whiskey dick",
+      "type":"noun phrase"
+   },
+   {
+      "word":"white man",
+      "type":"noun phrase"
+   },
+   {
+      "word":"whitey tighties",
+      "type":"noun phrase"
+   },
+   {
+      "word":"who dat iz",
+      "type":"interjection"
+   },
+   {
+      "word":"wicked",
+      "type":"adjective"
+   },
+   {
+      "word":"wide open",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"wifebeater",
+      "type":"noun"
+   },
+   {
+      "word":"wifey",
+      "type":"noun"
+   },
+   {
+      "word":"wigger",
+      "type":"noun"
+   },
+   {
+      "word":"wig out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"Wikipedia",
+      "type":"verb"
+   },
+   {
+      "word":"wing man",
+      "type":"noun phrase"
+   },
+   {
+      "word":"wingnut",
+      "type":"noun"
+   },
+   {
+      "word":"wired",
+      "type":"adjective"
+   },
+   {
+      "word":"womp",
+      "type":"verb"
+   },
+   {
+      "word":"woody",
+      "type":"noun"
+   },
+   {
+      "word":"wookie",
+      "type":"noun"
+   },
+   {
+      "word":"wookie",
+      "type":"noun"
+   },
+   {
+      "word":"word",
+      "type":"interjection"
+   },
+   {
+      "word":"word vomit",
+      "type":"noun phrase"
+   },
+   {
+      "word":"work it",
+      "type":"verb phrase"
+   },
+   {
+      "word":"World\u2019s Largest Cocktail Party",
+      "type":"noun phrase"
+   },
+   {
+      "word":"write on (someone's) wall",
+      "type":"verb phrase"
+   },
+   {
+      "word":"WTF",
+      "type":"acronym"
+   },
+   {
+      "word":"wuss",
+      "type":"noun"
+   },
+   {
+      "word":"X",
+      "type":"abbreviation"
+   },
+   {
+      "word":"xoxo",
+      "type":"abbreviation"
+   },
+   {
+      "word":"XYZ",
+      "type":"abbreviation"
+   },
+   {
+      "word":"ya boy",
+      "type":"noun phrase"
+   },
+   {
+      "word":"y'all",
+      "type":"noun"
+   },
+   {
+      "word":"Y'all's",
+      "type":"plural"
+   },
+   {
+      "word":"yanking my chain",
+      "type":"verb phrase"
+   },
+   {
+      "word":"yes sir",
+      "type":"interjection"
+   },
+   {
+      "word":"yo",
+      "type":"interjection"
+   },
+   {
+      "word":"yoink",
+      "type":"verb"
+   },
+   {
+      "word":"YOLO",
+      "type":"acronym"
+   },
+   {
+      "word":"your boy",
+      "type":"noun"
+   },
+   {
+      "word":"you're shitting me",
+      "type":"idiom"
+   },
+   {
+      "word":"your mom",
+      "type":"interjection"
+   },
+   {
+      "word":"zig-zag",
+      "type":"noun"
+   },
+   {
+      "word":"zombocalypse",
+      "type":"noun"
+   },
+   {
+      "word":"zone out",
+      "type":"verb phrase"
+   },
+   {
+      "word":"zonked",
+      "type":"adjective"
+   },
+   {
+      "word":"zonked out",
+      "type":"adjective phrase"
+   },
+   {
+      "word":"zooted",
+      "type":"adjective"
+   }
+]
