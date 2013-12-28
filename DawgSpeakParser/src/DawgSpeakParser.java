@@ -128,6 +128,13 @@ public class DawgSpeakParser {
 						j.put("word", word);
 						j.put("type", type);
 						j.put("definition", definition);
+						String[] toks = word.split(" ");
+						JSONArray tokens = new JSONArray();
+						for (String a : toks){
+							tokens.put(a);
+						}
+						j.put("tokens", tokens);
+						j.put("value", word);
 						t.put(j);
 						j = new JSONObject();
 						count = 1;
